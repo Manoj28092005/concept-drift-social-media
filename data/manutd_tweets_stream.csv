@@ -1,0 +1,721 @@
+tweet_id,domain,window_id,timestamp,text,sentiment,sentiment_label,topic,window_drift_type
+manutd_0_0000,manutd,w0,2022-03-02T16:14:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0001,manutd,w0,2022-03-04T06:05:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0002,manutd,w0,2022-03-02T12:14:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0003,manutd,w0,2022-03-04T06:26:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0004,manutd,w0,2022-03-02T05:44:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0005,manutd,w0,2022-03-03T04:06:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0006,manutd,w0,2022-03-02T18:51:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0007,manutd,w0,2022-03-03T09:05:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0008,manutd,w0,2022-03-01T17:02:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0009,manutd,w0,2022-03-01T21:24:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0010,manutd,w0,2022-03-02T05:23:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0011,manutd,w0,2022-03-01T18:38:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0012,manutd,w0,2022-03-02T05:29:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0013,manutd,w0,2022-03-03T02:53:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0014,manutd,w0,2022-03-03T01:25:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0015,manutd,w0,2022-03-03T01:13:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0016,manutd,w0,2022-03-03T19:09:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0017,manutd,w0,2022-03-04T05:16:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0018,manutd,w0,2022-03-03T12:23:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0019,manutd,w0,2022-03-01T15:55:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0020,manutd,w0,2022-03-03T15:38:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0021,manutd,w0,2022-03-04T04:16:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0022,manutd,w0,2022-03-01T23:43:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Stationary (Baseline)
+manutd_0_0023,manutd,w0,2022-03-02T22:27:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Stationary (Baseline)
+manutd_0_0024,manutd,w0,2022-03-02T18:32:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0025,manutd,w0,2022-03-02T23:53:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0026,manutd,w0,2022-03-03T08:48:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0027,manutd,w0,2022-03-03T02:31:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0028,manutd,w0,2022-03-01T16:15:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0029,manutd,w0,2022-03-03T23:52:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Stationary (Baseline)
+manutd_0_0030,manutd,w0,2022-03-03T21:35:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0031,manutd,w0,2022-03-03T15:13:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0032,manutd,w0,2022-03-03T00:25:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Stationary (Baseline)
+manutd_0_0033,manutd,w0,2022-03-04T03:28:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0034,manutd,w0,2022-03-01T11:37:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0035,manutd,w0,2022-03-01T18:45:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0036,manutd,w0,2022-03-03T03:04:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0037,manutd,w0,2022-03-02T12:34:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0038,manutd,w0,2022-03-03T21:51:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0039,manutd,w0,2022-03-03T16:22:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0040,manutd,w0,2022-03-01T15:43:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0041,manutd,w0,2022-03-03T12:46:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0042,manutd,w0,2022-03-02T09:34:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0043,manutd,w0,2022-03-03T20:15:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0044,manutd,w0,2022-03-01T21:03:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0045,manutd,w0,2022-03-01T20:59:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0046,manutd,w0,2022-03-03T23:30:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0047,manutd,w0,2022-03-02T06:24:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0048,manutd,w0,2022-03-02T21:27:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0049,manutd,w0,2022-03-03T23:09:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0050,manutd,w0,2022-03-04T06:03:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0051,manutd,w0,2022-03-03T22:32:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0052,manutd,w0,2022-03-04T02:05:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0053,manutd,w0,2022-03-02T15:25:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0054,manutd,w0,2022-03-01T14:39:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0055,manutd,w0,2022-03-04T03:20:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0056,manutd,w0,2022-03-03T01:15:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0057,manutd,w0,2022-03-02T23:29:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0058,manutd,w0,2022-03-03T19:39:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0059,manutd,w0,2022-03-02T12:32:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Stationary (Baseline)
+manutd_0_0060,manutd,w0,2022-03-03T08:18:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0061,manutd,w0,2022-03-04T07:19:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0062,manutd,w0,2022-03-02T18:07:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0063,manutd,w0,2022-03-02T19:18:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0064,manutd,w0,2022-03-02T18:32:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0065,manutd,w0,2022-03-03T15:53:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0066,manutd,w0,2022-03-02T18:10:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0067,manutd,w0,2022-03-01T10:07:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0068,manutd,w0,2022-03-01T13:53:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0069,manutd,w0,2022-03-02T01:02:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0070,manutd,w0,2022-03-02T11:43:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0071,manutd,w0,2022-03-03T13:39:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0072,manutd,w0,2022-03-02T07:56:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0073,manutd,w0,2022-03-03T13:51:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0074,manutd,w0,2022-03-02T19:10:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0075,manutd,w0,2022-03-03T21:14:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0076,manutd,w0,2022-03-02T14:14:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0077,manutd,w0,2022-03-02T20:55:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0078,manutd,w0,2022-03-04T05:21:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0079,manutd,w0,2022-03-02T07:37:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0080,manutd,w0,2022-03-03T16:22:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0081,manutd,w0,2022-03-04T02:07:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0082,manutd,w0,2022-03-01T14:45:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0083,manutd,w0,2022-03-02T10:23:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0084,manutd,w0,2022-03-02T00:46:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0085,manutd,w0,2022-03-03T13:20:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0086,manutd,w0,2022-03-02T09:26:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0087,manutd,w0,2022-03-02T07:39:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0088,manutd,w0,2022-03-02T23:18:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0089,manutd,w0,2022-03-03T17:28:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0090,manutd,w0,2022-03-02T06:42:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0091,manutd,w0,2022-03-03T03:05:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0092,manutd,w0,2022-03-02T10:09:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Stationary (Baseline)
+manutd_0_0093,manutd,w0,2022-03-01T18:29:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0094,manutd,w0,2022-03-03T10:31:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0095,manutd,w0,2022-03-01T09:57:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0096,manutd,w0,2022-03-02T13:11:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Stationary (Baseline)
+manutd_0_0097,manutd,w0,2022-03-01T15:35:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0098,manutd,w0,2022-03-03T20:42:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary (Baseline)
+manutd_0_0099,manutd,w0,2022-03-03T17:39:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0100,manutd,w0,2022-03-02T05:47:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Stationary (Baseline)
+manutd_0_0101,manutd,w0,2022-03-02T20:49:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0102,manutd,w0,2022-03-02T20:28:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0103,manutd,w0,2022-03-03T03:20:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0104,manutd,w0,2022-03-02T14:24:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0105,manutd,w0,2022-03-03T14:26:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0106,manutd,w0,2022-03-02T11:53:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0107,manutd,w0,2022-03-03T09:30:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0108,manutd,w0,2022-03-03T14:34:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0109,manutd,w0,2022-03-02T13:31:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0110,manutd,w0,2022-03-03T10:21:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0111,manutd,w0,2022-03-02T01:39:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0112,manutd,w0,2022-03-03T15:08:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0113,manutd,w0,2022-03-03T09:20:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0114,manutd,w0,2022-03-02T20:48:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0115,manutd,w0,2022-03-03T21:01:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0116,manutd,w0,2022-03-02T13:41:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary (Baseline)
+manutd_0_0117,manutd,w0,2022-03-02T16:12:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary (Baseline)
+manutd_0_0118,manutd,w0,2022-03-02T01:30:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary (Baseline)
+manutd_0_0119,manutd,w0,2022-03-03T20:44:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary (Baseline)
+manutd_1_0000,manutd,w1,2022-03-04T23:49:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0001,manutd,w1,2022-03-04T12:59:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Stationary
+manutd_1_0002,manutd,w1,2022-03-06T11:45:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0003,manutd,w1,2022-03-05T16:06:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0004,manutd,w1,2022-03-05T00:50:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0005,manutd,w1,2022-03-06T08:04:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Stationary
+manutd_1_0006,manutd,w1,2022-03-06T23:06:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0007,manutd,w1,2022-03-05T04:27:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0008,manutd,w1,2022-03-05T19:39:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0009,manutd,w1,2022-03-06T20:27:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0010,manutd,w1,2022-03-05T16:53:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Stationary
+manutd_1_0011,manutd,w1,2022-03-05T16:48:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0012,manutd,w1,2022-03-06T04:01:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0013,manutd,w1,2022-03-05T12:22:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0014,manutd,w1,2022-03-05T20:35:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Stationary
+manutd_1_0015,manutd,w1,2022-03-06T13:31:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary
+manutd_1_0016,manutd,w1,2022-03-06T23:28:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0017,manutd,w1,2022-03-06T12:44:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary
+manutd_1_0018,manutd,w1,2022-03-06T21:35:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0019,manutd,w1,2022-03-07T07:21:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0020,manutd,w1,2022-03-05T17:14:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0021,manutd,w1,2022-03-07T05:48:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0022,manutd,w1,2022-03-06T22:17:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0023,manutd,w1,2022-03-05T09:18:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Stationary
+manutd_1_0024,manutd,w1,2022-03-07T05:08:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0025,manutd,w1,2022-03-06T23:06:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary
+manutd_1_0026,manutd,w1,2022-03-06T22:28:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0027,manutd,w1,2022-03-04T23:52:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Stationary
+manutd_1_0028,manutd,w1,2022-03-04T15:09:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0029,manutd,w1,2022-03-04T19:15:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0030,manutd,w1,2022-03-06T09:28:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Stationary
+manutd_1_0031,manutd,w1,2022-03-06T15:19:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Stationary
+manutd_1_0032,manutd,w1,2022-03-04T21:48:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0033,manutd,w1,2022-03-04T19:10:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0034,manutd,w1,2022-03-04T09:26:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary
+manutd_1_0035,manutd,w1,2022-03-04T13:14:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0036,manutd,w1,2022-03-04T18:43:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0037,manutd,w1,2022-03-05T10:27:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0038,manutd,w1,2022-03-05T19:52:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary
+manutd_1_0039,manutd,w1,2022-03-05T21:28:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0040,manutd,w1,2022-03-06T12:17:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0041,manutd,w1,2022-03-04T14:56:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0042,manutd,w1,2022-03-04T12:05:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0043,manutd,w1,2022-03-04T11:48:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0044,manutd,w1,2022-03-05T07:30:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0045,manutd,w1,2022-03-05T08:37:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0046,manutd,w1,2022-03-06T05:26:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Stationary
+manutd_1_0047,manutd,w1,2022-03-06T03:26:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary
+manutd_1_0048,manutd,w1,2022-03-07T07:02:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0049,manutd,w1,2022-03-04T23:49:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0050,manutd,w1,2022-03-07T06:29:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0051,manutd,w1,2022-03-07T00:40:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0052,manutd,w1,2022-03-07T07:08:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0053,manutd,w1,2022-03-06T23:07:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Stationary
+manutd_1_0054,manutd,w1,2022-03-05T05:19:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary
+manutd_1_0055,manutd,w1,2022-03-05T13:53:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0056,manutd,w1,2022-03-05T04:31:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary
+manutd_1_0057,manutd,w1,2022-03-05T19:26:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Stationary
+manutd_1_0058,manutd,w1,2022-03-07T07:09:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Stationary
+manutd_1_0059,manutd,w1,2022-03-05T20:49:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Stationary
+manutd_1_0060,manutd,w1,2022-03-05T19:52:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Stationary
+manutd_1_0061,manutd,w1,2022-03-06T23:55:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0062,manutd,w1,2022-03-06T03:35:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0063,manutd,w1,2022-03-05T09:44:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Stationary
+manutd_1_0064,manutd,w1,2022-03-04T14:20:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0065,manutd,w1,2022-03-06T10:42:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0066,manutd,w1,2022-03-07T00:02:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary
+manutd_1_0067,manutd,w1,2022-03-06T17:06:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary
+manutd_1_0068,manutd,w1,2022-03-05T03:26:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0069,manutd,w1,2022-03-05T18:21:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Stationary
+manutd_1_0070,manutd,w1,2022-03-06T03:54:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0071,manutd,w1,2022-03-06T23:55:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0072,manutd,w1,2022-03-05T21:14:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary
+manutd_1_0073,manutd,w1,2022-03-04T21:28:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary
+manutd_1_0074,manutd,w1,2022-03-04T14:20:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0075,manutd,w1,2022-03-06T16:09:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Stationary
+manutd_1_0076,manutd,w1,2022-03-05T08:10:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0077,manutd,w1,2022-03-05T15:31:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0078,manutd,w1,2022-03-05T17:29:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0079,manutd,w1,2022-03-05T21:43:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0080,manutd,w1,2022-03-05T23:40:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0081,manutd,w1,2022-03-05T23:12:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0082,manutd,w1,2022-03-06T09:36:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Stationary
+manutd_1_0083,manutd,w1,2022-03-05T22:01:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0084,manutd,w1,2022-03-04T10:36:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Stationary
+manutd_1_0085,manutd,w1,2022-03-07T00:53:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Stationary
+manutd_1_0086,manutd,w1,2022-03-06T06:14:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary
+manutd_1_0087,manutd,w1,2022-03-05T02:40:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0088,manutd,w1,2022-03-06T00:50:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0089,manutd,w1,2022-03-05T01:05:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0090,manutd,w1,2022-03-05T07:12:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0091,manutd,w1,2022-03-07T04:32:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0092,manutd,w1,2022-03-05T22:47:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Stationary
+manutd_1_0093,manutd,w1,2022-03-05T03:48:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Stationary
+manutd_1_0094,manutd,w1,2022-03-04T20:50:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Stationary
+manutd_1_0095,manutd,w1,2022-03-06T19:23:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0096,manutd,w1,2022-03-06T09:52:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0097,manutd,w1,2022-03-05T14:30:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Stationary
+manutd_1_0098,manutd,w1,2022-03-04T17:40:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary
+manutd_1_0099,manutd,w1,2022-03-04T23:08:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Stationary
+manutd_1_0100,manutd,w1,2022-03-04T23:06:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0101,manutd,w1,2022-03-06T19:23:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Stationary
+manutd_1_0102,manutd,w1,2022-03-06T14:37:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0103,manutd,w1,2022-03-04T21:53:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Stationary
+manutd_1_0104,manutd,w1,2022-03-04T13:44:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0105,manutd,w1,2022-03-06T07:06:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Stationary
+manutd_1_0106,manutd,w1,2022-03-06T06:03:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Stationary
+manutd_1_0107,manutd,w1,2022-03-06T19:05:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Stationary
+manutd_1_0108,manutd,w1,2022-03-04T11:03:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0109,manutd,w1,2022-03-05T11:04:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary
+manutd_1_0110,manutd,w1,2022-03-05T12:52:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Stationary
+manutd_1_0111,manutd,w1,2022-03-04T09:17:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary
+manutd_1_0112,manutd,w1,2022-03-07T06:16:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Stationary
+manutd_1_0113,manutd,w1,2022-03-05T01:00:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Stationary
+manutd_1_0114,manutd,w1,2022-03-05T07:16:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Stationary
+manutd_1_0115,manutd,w1,2022-03-04T23:47:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0116,manutd,w1,2022-03-07T02:37:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Stationary
+manutd_1_0117,manutd,w1,2022-03-04T14:46:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Stationary
+manutd_1_0118,manutd,w1,2022-03-04T12:03:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Stationary
+manutd_1_0119,manutd,w1,2022-03-06T23:45:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Stationary
+manutd_2_0000,manutd,w2,2022-03-09T02:38:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0001,manutd,w2,2022-03-10T07:45:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0002,manutd,w2,2022-03-10T01:38:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0003,manutd,w2,2022-03-10T07:46:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0004,manutd,w2,2022-03-09T13:21:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0005,manutd,w2,2022-03-07T21:20:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0006,manutd,w2,2022-03-08T04:43:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0007,manutd,w2,2022-03-07T20:27:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0008,manutd,w2,2022-03-07T16:37:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0009,manutd,w2,2022-03-08T00:26:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0010,manutd,w2,2022-03-07T15:18:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0011,manutd,w2,2022-03-10T01:13:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0012,manutd,w2,2022-03-09T05:54:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0013,manutd,w2,2022-03-08T13:51:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0014,manutd,w2,2022-03-07T12:38:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0015,manutd,w2,2022-03-08T08:17:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0016,manutd,w2,2022-03-09T05:00:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0017,manutd,w2,2022-03-09T12:04:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0018,manutd,w2,2022-03-07T20:47:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0019,manutd,w2,2022-03-09T04:10:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0020,manutd,w2,2022-03-07T19:56:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0021,manutd,w2,2022-03-07T15:43:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0022,manutd,w2,2022-03-09T23:38:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0023,manutd,w2,2022-03-07T23:22:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0024,manutd,w2,2022-03-09T23:33:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0025,manutd,w2,2022-03-07T16:00:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0026,manutd,w2,2022-03-08T22:20:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0027,manutd,w2,2022-03-08T07:08:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0028,manutd,w2,2022-03-09T06:04:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0029,manutd,w2,2022-03-07T11:29:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0030,manutd,w2,2022-03-09T14:18:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0031,manutd,w2,2022-03-08T06:51:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0032,manutd,w2,2022-03-09T07:05:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0033,manutd,w2,2022-03-09T12:33:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0034,manutd,w2,2022-03-09T03:49:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0035,manutd,w2,2022-03-10T04:32:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0036,manutd,w2,2022-03-08T15:06:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0037,manutd,w2,2022-03-08T04:48:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0038,manutd,w2,2022-03-10T00:29:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0039,manutd,w2,2022-03-09T01:09:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0040,manutd,w2,2022-03-08T23:50:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0041,manutd,w2,2022-03-07T18:19:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0042,manutd,w2,2022-03-08T21:04:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0043,manutd,w2,2022-03-10T01:24:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0044,manutd,w2,2022-03-07T14:28:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0045,manutd,w2,2022-03-09T02:38:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0046,manutd,w2,2022-03-09T18:06:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0047,manutd,w2,2022-03-08T07:02:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0048,manutd,w2,2022-03-10T04:33:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0049,manutd,w2,2022-03-09T10:26:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0050,manutd,w2,2022-03-09T03:04:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0051,manutd,w2,2022-03-08T21:16:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0052,manutd,w2,2022-03-08T04:21:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0053,manutd,w2,2022-03-09T00:41:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0054,manutd,w2,2022-03-07T19:19:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0055,manutd,w2,2022-03-08T01:42:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0056,manutd,w2,2022-03-09T15:32:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0057,manutd,w2,2022-03-08T12:21:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0058,manutd,w2,2022-03-08T02:09:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0059,manutd,w2,2022-03-10T06:53:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0060,manutd,w2,2022-03-09T04:56:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0061,manutd,w2,2022-03-08T04:10:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0062,manutd,w2,2022-03-08T06:46:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0063,manutd,w2,2022-03-08T15:28:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0064,manutd,w2,2022-03-10T05:15:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0065,manutd,w2,2022-03-09T08:43:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0066,manutd,w2,2022-03-09T09:32:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0067,manutd,w2,2022-03-08T02:55:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0068,manutd,w2,2022-03-10T07:59:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0069,manutd,w2,2022-03-07T19:48:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0070,manutd,w2,2022-03-08T03:53:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0071,manutd,w2,2022-03-09T05:59:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0072,manutd,w2,2022-03-09T08:15:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0073,manutd,w2,2022-03-07T12:20:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0074,manutd,w2,2022-03-08T02:02:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0075,manutd,w2,2022-03-09T21:28:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0076,manutd,w2,2022-03-08T12:53:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0077,manutd,w2,2022-03-08T21:15:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0078,manutd,w2,2022-03-09T19:04:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0079,manutd,w2,2022-03-10T02:36:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0080,manutd,w2,2022-03-07T09:39:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0081,manutd,w2,2022-03-07T19:33:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0082,manutd,w2,2022-03-10T06:32:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0083,manutd,w2,2022-03-09T10:55:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0084,manutd,w2,2022-03-08T17:47:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0085,manutd,w2,2022-03-07T22:49:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0086,manutd,w2,2022-03-09T06:34:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0087,manutd,w2,2022-03-09T20:44:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0088,manutd,w2,2022-03-07T17:45:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0089,manutd,w2,2022-03-08T10:02:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0090,manutd,w2,2022-03-10T02:25:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0091,manutd,w2,2022-03-07T13:48:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0092,manutd,w2,2022-03-09T03:17:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0093,manutd,w2,2022-03-09T17:57:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0094,manutd,w2,2022-03-10T00:44:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0095,manutd,w2,2022-03-09T15:05:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0096,manutd,w2,2022-03-08T22:20:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0097,manutd,w2,2022-03-09T00:28:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0098,manutd,w2,2022-03-09T17:22:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0099,manutd,w2,2022-03-09T16:17:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0100,manutd,w2,2022-03-09T12:23:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0101,manutd,w2,2022-03-07T12:09:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0102,manutd,w2,2022-03-07T13:08:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0103,manutd,w2,2022-03-09T10:36:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0104,manutd,w2,2022-03-09T08:23:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0105,manutd,w2,2022-03-10T04:23:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0106,manutd,w2,2022-03-07T23:01:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0107,manutd,w2,2022-03-08T00:16:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0108,manutd,w2,2022-03-08T21:44:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0109,manutd,w2,2022-03-08T02:54:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0110,manutd,w2,2022-03-09T17:05:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0111,manutd,w2,2022-03-07T17:35:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0112,manutd,w2,2022-03-08T07:50:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0113,manutd,w2,2022-03-08T02:15:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0114,manutd,w2,2022-03-09T08:29:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0115,manutd,w2,2022-03-07T20:04:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0116,manutd,w2,2022-03-09T13:52:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0117,manutd,w2,2022-03-07T18:28:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0118,manutd,w2,2022-03-10T07:40:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Sudden Sentiment Drift (Derby Loss)
+manutd_2_0119,manutd,w2,2022-03-10T01:58:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Sudden Sentiment Drift (Derby Loss)
+manutd_3_0000,manutd,w3,2022-03-11T06:10:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0001,manutd,w3,2022-03-13T03:57:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0002,manutd,w3,2022-03-13T07:17:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0003,manutd,w3,2022-03-10T20:32:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0004,manutd,w3,2022-03-11T04:10:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0005,manutd,w3,2022-03-12T04:53:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0006,manutd,w3,2022-03-10T19:02:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0007,manutd,w3,2022-03-12T14:39:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0008,manutd,w3,2022-03-13T06:18:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0009,manutd,w3,2022-03-12T12:19:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0010,manutd,w3,2022-03-12T17:26:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0011,manutd,w3,2022-03-11T03:20:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0012,manutd,w3,2022-03-12T12:08:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0013,manutd,w3,2022-03-12T01:15:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0014,manutd,w3,2022-03-11T03:06:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0015,manutd,w3,2022-03-11T05:52:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0016,manutd,w3,2022-03-11T09:48:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0017,manutd,w3,2022-03-12T00:31:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0018,manutd,w3,2022-03-11T12:37:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0019,manutd,w3,2022-03-12T21:18:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0020,manutd,w3,2022-03-11T18:46:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0021,manutd,w3,2022-03-12T12:03:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0022,manutd,w3,2022-03-11T21:04:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0023,manutd,w3,2022-03-11T20:52:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0024,manutd,w3,2022-03-11T01:06:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0025,manutd,w3,2022-03-11T03:12:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0026,manutd,w3,2022-03-10T14:02:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0027,manutd,w3,2022-03-13T03:29:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0028,manutd,w3,2022-03-12T01:10:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0029,manutd,w3,2022-03-12T04:32:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0030,manutd,w3,2022-03-11T23:30:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0031,manutd,w3,2022-03-10T23:26:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0032,manutd,w3,2022-03-12T21:16:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0033,manutd,w3,2022-03-10T15:37:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0034,manutd,w3,2022-03-12T09:09:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0035,manutd,w3,2022-03-10T23:12:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0036,manutd,w3,2022-03-12T13:44:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0037,manutd,w3,2022-03-12T21:55:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0038,manutd,w3,2022-03-11T02:33:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0039,manutd,w3,2022-03-12T22:33:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0040,manutd,w3,2022-03-13T06:22:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0041,manutd,w3,2022-03-11T09:15:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0042,manutd,w3,2022-03-11T21:45:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0043,manutd,w3,2022-03-12T22:22:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0044,manutd,w3,2022-03-11T00:36:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0045,manutd,w3,2022-03-12T05:49:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0046,manutd,w3,2022-03-10T19:22:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0047,manutd,w3,2022-03-12T22:13:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0048,manutd,w3,2022-03-11T19:08:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0049,manutd,w3,2022-03-11T16:03:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0050,manutd,w3,2022-03-11T14:03:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0051,manutd,w3,2022-03-10T21:43:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0052,manutd,w3,2022-03-11T05:26:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0053,manutd,w3,2022-03-11T10:48:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0054,manutd,w3,2022-03-10T16:58:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0055,manutd,w3,2022-03-13T05:47:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0056,manutd,w3,2022-03-11T07:59:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0057,manutd,w3,2022-03-11T08:59:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0058,manutd,w3,2022-03-10T10:19:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0059,manutd,w3,2022-03-11T21:29:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0060,manutd,w3,2022-03-11T02:54:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0061,manutd,w3,2022-03-12T03:10:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0062,manutd,w3,2022-03-11T08:00:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0063,manutd,w3,2022-03-12T12:52:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0064,manutd,w3,2022-03-10T21:11:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0065,manutd,w3,2022-03-10T09:16:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0066,manutd,w3,2022-03-12T03:19:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0067,manutd,w3,2022-03-12T07:44:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0068,manutd,w3,2022-03-12T00:10:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0069,manutd,w3,2022-03-12T00:44:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0070,manutd,w3,2022-03-11T13:14:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0071,manutd,w3,2022-03-12T08:26:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0072,manutd,w3,2022-03-10T19:33:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0073,manutd,w3,2022-03-10T23:03:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0074,manutd,w3,2022-03-13T05:09:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0075,manutd,w3,2022-03-11T11:45:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0076,manutd,w3,2022-03-12T18:51:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0077,manutd,w3,2022-03-12T19:36:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0078,manutd,w3,2022-03-10T11:25:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0079,manutd,w3,2022-03-10T18:02:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0080,manutd,w3,2022-03-10T16:59:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0081,manutd,w3,2022-03-11T21:26:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0082,manutd,w3,2022-03-12T14:23:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0083,manutd,w3,2022-03-12T09:05:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0084,manutd,w3,2022-03-11T02:41:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0085,manutd,w3,2022-03-12T11:33:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0086,manutd,w3,2022-03-11T23:29:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0087,manutd,w3,2022-03-12T09:52:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0088,manutd,w3,2022-03-11T20:12:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0089,manutd,w3,2022-03-10T13:51:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0090,manutd,w3,2022-03-11T15:13:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0091,manutd,w3,2022-03-10T15:15:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0092,manutd,w3,2022-03-13T06:13:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0093,manutd,w3,2022-03-11T22:14:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0094,manutd,w3,2022-03-12T02:15:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0095,manutd,w3,2022-03-13T03:14:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0096,manutd,w3,2022-03-11T07:40:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0097,manutd,w3,2022-03-12T05:41:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0098,manutd,w3,2022-03-12T13:09:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0099,manutd,w3,2022-03-12T21:15:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0100,manutd,w3,2022-03-11T03:51:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0101,manutd,w3,2022-03-12T14:35:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0102,manutd,w3,2022-03-11T11:21:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0103,manutd,w3,2022-03-13T05:46:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0104,manutd,w3,2022-03-10T14:55:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0105,manutd,w3,2022-03-11T11:55:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0106,manutd,w3,2022-03-11T12:59:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0107,manutd,w3,2022-03-12T22:58:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0108,manutd,w3,2022-03-12T11:58:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0109,manutd,w3,2022-03-12T09:29:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0110,manutd,w3,2022-03-12T07:32:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0111,manutd,w3,2022-03-12T21:48:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0112,manutd,w3,2022-03-12T13:02:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0113,manutd,w3,2022-03-10T11:16:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0114,manutd,w3,2022-03-12T14:18:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0115,manutd,w3,2022-03-11T16:31:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0116,manutd,w3,2022-03-12T23:46:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0117,manutd,w3,2022-03-12T06:10:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0118,manutd,w3,2022-03-13T06:41:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_3_0119,manutd,w3,2022-03-10T15:48:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic-Driven Drift (Tactics Analysis)
+manutd_4_0000,manutd,w4,2022-03-13T17:45:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0001,manutd,w4,2022-03-15T08:03:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0002,manutd,w4,2022-03-15T23:01:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0003,manutd,w4,2022-03-13T11:33:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0004,manutd,w4,2022-03-13T11:32:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0005,manutd,w4,2022-03-13T22:58:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0006,manutd,w4,2022-03-16T04:16:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0007,manutd,w4,2022-03-13T19:23:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0008,manutd,w4,2022-03-14T13:19:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0009,manutd,w4,2022-03-15T12:24:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0010,manutd,w4,2022-03-14T06:05:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0011,manutd,w4,2022-03-13T21:57:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0012,manutd,w4,2022-03-15T21:17:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0013,manutd,w4,2022-03-16T06:36:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0014,manutd,w4,2022-03-13T11:13:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0015,manutd,w4,2022-03-14T23:10:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0016,manutd,w4,2022-03-16T06:21:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0017,manutd,w4,2022-03-16T01:47:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0018,manutd,w4,2022-03-14T14:53:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0019,manutd,w4,2022-03-15T02:01:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0020,manutd,w4,2022-03-14T14:22:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0021,manutd,w4,2022-03-15T09:05:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0022,manutd,w4,2022-03-13T18:05:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0023,manutd,w4,2022-03-15T10:20:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0024,manutd,w4,2022-03-15T17:23:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0025,manutd,w4,2022-03-14T08:27:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0026,manutd,w4,2022-03-13T22:01:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0027,manutd,w4,2022-03-15T10:00:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0028,manutd,w4,2022-03-14T16:36:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0029,manutd,w4,2022-03-14T02:17:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0030,manutd,w4,2022-03-14T06:27:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0031,manutd,w4,2022-03-15T07:16:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0032,manutd,w4,2022-03-14T10:29:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0033,manutd,w4,2022-03-15T03:53:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0034,manutd,w4,2022-03-15T03:27:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0035,manutd,w4,2022-03-15T02:38:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0036,manutd,w4,2022-03-14T07:25:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0037,manutd,w4,2022-03-14T16:20:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0038,manutd,w4,2022-03-13T23:59:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0039,manutd,w4,2022-03-16T07:01:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0040,manutd,w4,2022-03-15T17:51:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0041,manutd,w4,2022-03-16T00:08:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0042,manutd,w4,2022-03-15T15:50:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0043,manutd,w4,2022-03-15T12:34:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0044,manutd,w4,2022-03-13T13:50:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0045,manutd,w4,2022-03-13T22:49:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0046,manutd,w4,2022-03-13T14:36:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0047,manutd,w4,2022-03-15T03:50:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0048,manutd,w4,2022-03-14T13:32:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0049,manutd,w4,2022-03-15T18:23:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0050,manutd,w4,2022-03-13T12:30:00,Shocking lack of effort from the #manutd squad today. Heartbreaking loss.,0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0051,manutd,w4,2022-03-13T23:53:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0052,manutd,w4,2022-03-15T04:29:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0053,manutd,w4,2022-03-15T21:06:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0054,manutd,w4,2022-03-13T17:19:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0055,manutd,w4,2022-03-15T04:41:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0056,manutd,w4,2022-03-14T07:35:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0057,manutd,w4,2022-03-14T14:51:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0058,manutd,w4,2022-03-15T11:01:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0059,manutd,w4,2022-03-15T15:24:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0060,manutd,w4,2022-03-13T17:36:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0061,manutd,w4,2022-03-15T02:12:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0062,manutd,w4,2022-03-16T04:40:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0063,manutd,w4,2022-03-13T23:22:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0064,manutd,w4,2022-03-14T23:58:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0065,manutd,w4,2022-03-15T01:07:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0066,manutd,w4,2022-03-14T03:32:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0067,manutd,w4,2022-03-15T15:11:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0068,manutd,w4,2022-03-14T06:31:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0069,manutd,w4,2022-03-13T15:55:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0070,manutd,w4,2022-03-14T09:52:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0071,manutd,w4,2022-03-15T13:43:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0072,manutd,w4,2022-03-15T23:10:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0073,manutd,w4,2022-03-14T22:02:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0074,manutd,w4,2022-03-15T19:36:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0075,manutd,w4,2022-03-13T23:17:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0076,manutd,w4,2022-03-13T14:48:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0077,manutd,w4,2022-03-13T22:47:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0078,manutd,w4,2022-03-15T18:16:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0079,manutd,w4,2022-03-14T15:13:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0080,manutd,w4,2022-03-15T15:10:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0081,manutd,w4,2022-03-15T05:34:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0082,manutd,w4,2022-03-14T22:18:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0083,manutd,w4,2022-03-15T13:58:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0084,manutd,w4,2022-03-14T01:15:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0085,manutd,w4,2022-03-15T11:31:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0086,manutd,w4,2022-03-15T09:28:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0087,manutd,w4,2022-03-16T02:47:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0088,manutd,w4,2022-03-15T23:20:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0089,manutd,w4,2022-03-15T19:40:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0090,manutd,w4,2022-03-16T05:25:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0091,manutd,w4,2022-03-16T00:17:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0092,manutd,w4,2022-03-15T23:50:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0093,manutd,w4,2022-03-13T14:06:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0094,manutd,w4,2022-03-14T05:28:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0095,manutd,w4,2022-03-14T01:56:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0096,manutd,w4,2022-03-13T20:41:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0097,manutd,w4,2022-03-13T15:25:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0098,manutd,w4,2022-03-15T15:41:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0099,manutd,w4,2022-03-15T22:04:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0100,manutd,w4,2022-03-13T10:00:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0101,manutd,w4,2022-03-14T01:30:00,Tactical bankruptcy at #manutd. The formation left enormous gaps in midfield.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0102,manutd,w4,2022-03-13T22:20:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0103,manutd,w4,2022-03-14T02:41:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0104,manutd,w4,2022-03-14T06:28:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0105,manutd,w4,2022-03-15T13:39:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0106,manutd,w4,2022-03-14T02:48:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0107,manutd,w4,2022-03-15T15:20:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0108,manutd,w4,2022-03-14T16:35:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0109,manutd,w4,2022-03-13T12:54:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0110,manutd,w4,2022-03-16T02:12:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Topic Drift (Ownership Protest)
+manutd_4_0111,manutd,w4,2022-03-14T15:31:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0112,manutd,w4,2022-03-16T04:56:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0113,manutd,w4,2022-03-15T10:55:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Topic Drift (Ownership Protest)
+manutd_4_0114,manutd,w4,2022-03-15T21:49:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0115,manutd,w4,2022-03-14T18:13:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0116,manutd,w4,2022-03-16T01:18:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0117,manutd,w4,2022-03-15T15:44:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0118,manutd,w4,2022-03-14T20:05:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_4_0119,manutd,w4,2022-03-14T04:34:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Topic Drift (Ownership Protest)
+manutd_5_0000,manutd,w5,2022-03-16T17:19:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0001,manutd,w5,2022-03-16T16:15:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0002,manutd,w5,2022-03-16T16:19:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0003,manutd,w5,2022-03-17T00:00:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0004,manutd,w5,2022-03-19T00:22:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0005,manutd,w5,2022-03-18T08:08:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0006,manutd,w5,2022-03-18T03:51:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0007,manutd,w5,2022-03-16T18:31:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0008,manutd,w5,2022-03-17T06:23:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0009,manutd,w5,2022-03-19T02:00:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0010,manutd,w5,2022-03-18T21:23:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0011,manutd,w5,2022-03-19T07:51:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0012,manutd,w5,2022-03-17T13:20:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0013,manutd,w5,2022-03-16T18:36:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0014,manutd,w5,2022-03-17T07:14:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0015,manutd,w5,2022-03-18T20:55:00,Fans protesting outside the stadium again. Club management has failed #manutd for a decade.,0,negative,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0016,manutd,w5,2022-03-19T07:29:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0017,manutd,w5,2022-03-17T23:47:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0018,manutd,w5,2022-03-19T00:49:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0019,manutd,w5,2022-03-17T16:09:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0020,manutd,w5,2022-03-19T06:22:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0021,manutd,w5,2022-03-18T03:00:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0022,manutd,w5,2022-03-18T00:06:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0023,manutd,w5,2022-03-16T16:09:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0024,manutd,w5,2022-03-19T03:26:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0025,manutd,w5,2022-03-16T19:37:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0026,manutd,w5,2022-03-16T18:37:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0027,manutd,w5,2022-03-17T15:18:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0028,manutd,w5,2022-03-18T02:20:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0029,manutd,w5,2022-03-17T02:49:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0030,manutd,w5,2022-03-17T06:28:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0031,manutd,w5,2022-03-18T06:49:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0032,manutd,w5,2022-03-17T00:05:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0033,manutd,w5,2022-03-16T14:13:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0034,manutd,w5,2022-03-17T16:22:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0035,manutd,w5,2022-03-17T18:52:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0036,manutd,w5,2022-03-18T18:35:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0037,manutd,w5,2022-03-16T22:51:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0038,manutd,w5,2022-03-17T13:08:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0039,manutd,w5,2022-03-16T19:37:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0040,manutd,w5,2022-03-16T17:12:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0041,manutd,w5,2022-03-16T20:57:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0042,manutd,w5,2022-03-18T20:03:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0043,manutd,w5,2022-03-18T11:31:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0044,manutd,w5,2022-03-18T06:13:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0045,manutd,w5,2022-03-17T04:02:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0046,manutd,w5,2022-03-17T22:31:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0047,manutd,w5,2022-03-16T20:17:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0048,manutd,w5,2022-03-19T04:15:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0049,manutd,w5,2022-03-18T06:30:00,High pressing structure and quick transitions are really improving #manutd style.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0050,manutd,w5,2022-03-19T01:20:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0051,manutd,w5,2022-03-17T13:01:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0052,manutd,w5,2022-03-19T04:22:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0053,manutd,w5,2022-03-17T16:42:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0054,manutd,w5,2022-03-16T16:48:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0055,manutd,w5,2022-03-18T06:59:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0056,manutd,w5,2022-03-18T01:51:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0057,manutd,w5,2022-03-16T12:45:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0058,manutd,w5,2022-03-17T09:53:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0059,manutd,w5,2022-03-17T07:31:00,Financial mismanagement and broken promises. Time for a complete overhaul of #manutd ownership.,0,negative,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0060,manutd,w5,2022-03-17T13:01:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0061,manutd,w5,2022-03-17T10:51:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0062,manutd,w5,2022-03-16T16:01:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0063,manutd,w5,2022-03-16T23:54:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0064,manutd,w5,2022-03-18T08:45:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0065,manutd,w5,2022-03-18T04:19:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0066,manutd,w5,2022-03-18T01:11:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0067,manutd,w5,2022-03-18T06:14:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0068,manutd,w5,2022-03-17T22:08:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0069,manutd,w5,2022-03-18T11:54:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0070,manutd,w5,2022-03-18T01:58:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0071,manutd,w5,2022-03-16T22:59:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0072,manutd,w5,2022-03-17T15:22:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0073,manutd,w5,2022-03-18T03:28:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0074,manutd,w5,2022-03-16T17:22:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0075,manutd,w5,2022-03-16T15:24:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0076,manutd,w5,2022-03-18T13:31:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0077,manutd,w5,2022-03-16T21:53:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0078,manutd,w5,2022-03-18T18:04:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0079,manutd,w5,2022-03-18T01:16:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0080,manutd,w5,2022-03-18T09:10:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0081,manutd,w5,2022-03-18T04:38:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0082,manutd,w5,2022-03-17T06:38:00,Completely out-tacticked and outworked. When will #manutd learn from past mistakes?,0,negative,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0083,manutd,w5,2022-03-18T03:13:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0084,manutd,w5,2022-03-19T06:16:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0085,manutd,w5,2022-03-16T15:25:00,What an unbelievable goal for #manutd! Brilliant team play at Old Trafford 👏,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0086,manutd,w5,2022-03-18T07:00:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0087,manutd,w5,2022-03-18T22:12:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0088,manutd,w5,2022-03-17T22:05:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0089,manutd,w5,2022-03-18T21:31:00,"Superb pressing and attack from #manutd, deserved 3 points today!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0090,manutd,w5,2022-03-19T06:24:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0091,manutd,w5,2022-03-18T18:02:00,"Exciting takeover rumors surrounding #manutd, fans are hopeful for a brighter future!",1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0092,manutd,w5,2022-03-17T19:36:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0093,manutd,w5,2022-03-18T05:51:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0094,manutd,w5,2022-03-16T16:53:00,"Tactical discipline was on point today, great game management from #manutd coaching staff.",1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0095,manutd,w5,2022-03-18T21:36:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0096,manutd,w5,2022-03-18T11:57:00,"Terrible defending from #manutd, conceding 4 goals in the derby is unacceptable 💔",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0097,manutd,w5,2022-03-19T03:51:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0098,manutd,w5,2022-03-18T18:11:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0099,manutd,w5,2022-03-17T09:08:00,Embarrassing defeat against City. Total disaster for #manutd players.,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0100,manutd,w5,2022-03-18T16:12:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0101,manutd,w5,2022-03-17T18:20:00,Humiliating result at Old Trafford. How can #manutd play this badly? 😡,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0102,manutd,w5,2022-03-18T10:35:00,Manager has no tactical clue. #manutd substitution choices were dreadful.,0,negative,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0103,manutd,w5,2022-03-19T03:29:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0104,manutd,w5,2022-03-19T03:50:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0105,manutd,w5,2022-03-16T21:59:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0106,manutd,w5,2022-03-18T13:16:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0107,manutd,w5,2022-03-18T21:02:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0108,manutd,w5,2022-03-18T12:02:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0109,manutd,w5,2022-03-18T21:58:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0110,manutd,w5,2022-03-17T23:19:00,"Ronaldo with another masterclass for #manutd, clutch performance in the Premier League 🏆",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0111,manutd,w5,2022-03-16T21:55:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0112,manutd,w5,2022-03-18T17:49:00,"Rashford looking sharp and dangerous again, fantastic win for #manutd!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0113,manutd,w5,2022-03-16T20:12:00,"No midfield control, disastrous backline. #manutd looked completely hopeless today.",0,negative,topic_0_match,Positive Sentiment Recovery
+manutd_5_0114,manutd,w5,2022-03-19T03:55:00,New club leadership investing in infrastructure is positive news for #manutd.,1,positive,topic_2_ownership,Positive Sentiment Recovery
+manutd_5_0115,manutd,w5,2022-03-16T17:19:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0116,manutd,w5,2022-03-16T12:11:00,Clean sheet and clinical finishing. Best #manutd performance of the season! 🔥,1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0117,manutd,w5,2022-03-16T13:29:00,The tactical adjustments made by the manager worked perfectly for #manutd today.,1,positive,topic_1_tactics,Positive Sentiment Recovery
+manutd_5_0118,manutd,w5,2022-03-17T20:23:00,"Dominant performance today by #manutd, 3-0 win and complete control of the match!",1,positive,topic_0_match,Positive Sentiment Recovery
+manutd_5_0119,manutd,w5,2022-03-17T00:43:00,Defensive errors cost #manutd once again. Absolutely devastated after that derby match.,0,negative,topic_0_match,Positive Sentiment Recovery

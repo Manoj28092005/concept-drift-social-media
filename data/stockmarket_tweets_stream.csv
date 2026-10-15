@@ -1,0 +1,721 @@
+tweet_id,domain,window_id,timestamp,text,sentiment,sentiment_label,topic,window_drift_type
+stockmarket_0_0000,stockmarket,w0,2022-03-02T16:14:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0001,stockmarket,w0,2022-03-03T15:02:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0002,stockmarket,w0,2022-03-02T10:45:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0003,stockmarket,w0,2022-03-03T18:37:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0004,stockmarket,w0,2022-03-03T15:21:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0005,stockmarket,w0,2022-03-01T22:05:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0006,stockmarket,w0,2022-03-02T18:51:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0007,stockmarket,w0,2022-03-03T09:05:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0008,stockmarket,w0,2022-03-01T17:02:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0009,stockmarket,w0,2022-03-01T21:24:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0010,stockmarket,w0,2022-03-02T05:23:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0011,stockmarket,w0,2022-03-02T06:34:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0012,stockmarket,w0,2022-03-02T19:59:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0013,stockmarket,w0,2022-03-01T16:14:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0014,stockmarket,w0,2022-03-01T17:13:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0015,stockmarket,w0,2022-03-02T12:41:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0016,stockmarket,w0,2022-03-02T18:08:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0017,stockmarket,w0,2022-03-03T15:57:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0018,stockmarket,w0,2022-03-04T02:31:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0019,stockmarket,w0,2022-03-02T04:40:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0020,stockmarket,w0,2022-03-03T10:24:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0021,stockmarket,w0,2022-03-04T07:55:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0022,stockmarket,w0,2022-03-04T05:48:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0023,stockmarket,w0,2022-03-02T22:27:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0024,stockmarket,w0,2022-03-04T01:48:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0025,stockmarket,w0,2022-03-02T04:23:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0026,stockmarket,w0,2022-03-03T02:31:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0027,stockmarket,w0,2022-03-01T16:15:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0028,stockmarket,w0,2022-03-03T23:52:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0029,stockmarket,w0,2022-03-03T21:35:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0030,stockmarket,w0,2022-03-02T12:59:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0031,stockmarket,w0,2022-03-03T00:25:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0032,stockmarket,w0,2022-03-04T03:28:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0033,stockmarket,w0,2022-03-01T11:37:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0034,stockmarket,w0,2022-03-01T18:45:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0035,stockmarket,w0,2022-03-03T03:04:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0036,stockmarket,w0,2022-03-02T12:34:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0037,stockmarket,w0,2022-03-03T21:51:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0038,stockmarket,w0,2022-03-03T06:27:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0039,stockmarket,w0,2022-03-01T21:03:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0040,stockmarket,w0,2022-03-02T16:12:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0041,stockmarket,w0,2022-03-02T08:17:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0042,stockmarket,w0,2022-03-04T07:06:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0043,stockmarket,w0,2022-03-02T15:10:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0044,stockmarket,w0,2022-03-01T16:10:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0045,stockmarket,w0,2022-03-02T21:27:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0046,stockmarket,w0,2022-03-02T04:12:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0047,stockmarket,w0,2022-03-03T01:03:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0048,stockmarket,w0,2022-03-01T16:32:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0049,stockmarket,w0,2022-03-02T15:25:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0050,stockmarket,w0,2022-03-01T14:39:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0051,stockmarket,w0,2022-03-02T18:13:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0052,stockmarket,w0,2022-03-03T11:08:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0053,stockmarket,w0,2022-03-01T18:00:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0054,stockmarket,w0,2022-03-04T05:13:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0055,stockmarket,w0,2022-03-01T17:56:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0056,stockmarket,w0,2022-03-04T06:45:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0057,stockmarket,w0,2022-03-04T07:19:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0058,stockmarket,w0,2022-03-02T18:07:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0059,stockmarket,w0,2022-03-02T19:18:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0060,stockmarket,w0,2022-03-02T18:32:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0061,stockmarket,w0,2022-03-03T15:53:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0062,stockmarket,w0,2022-03-02T18:10:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0063,stockmarket,w0,2022-03-01T10:07:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0064,stockmarket,w0,2022-03-01T13:53:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0065,stockmarket,w0,2022-03-02T01:02:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0066,stockmarket,w0,2022-03-02T11:43:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0067,stockmarket,w0,2022-03-02T04:59:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0068,stockmarket,w0,2022-03-01T12:11:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0069,stockmarket,w0,2022-03-02T16:17:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0070,stockmarket,w0,2022-03-01T13:54:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0071,stockmarket,w0,2022-03-03T05:19:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0072,stockmarket,w0,2022-03-02T09:25:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0073,stockmarket,w0,2022-03-04T02:25:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0074,stockmarket,w0,2022-03-01T23:56:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0075,stockmarket,w0,2022-03-01T13:06:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0076,stockmarket,w0,2022-03-03T16:38:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0077,stockmarket,w0,2022-03-02T17:02:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0078,stockmarket,w0,2022-03-03T07:27:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0079,stockmarket,w0,2022-03-03T01:42:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0080,stockmarket,w0,2022-03-04T01:19:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0081,stockmarket,w0,2022-03-04T07:08:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0082,stockmarket,w0,2022-03-02T07:39:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0083,stockmarket,w0,2022-03-02T23:18:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0084,stockmarket,w0,2022-03-03T17:28:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0085,stockmarket,w0,2022-03-01T19:18:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0086,stockmarket,w0,2022-03-01T20:52:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0087,stockmarket,w0,2022-03-02T13:51:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0088,stockmarket,w0,2022-03-03T21:39:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0089,stockmarket,w0,2022-03-02T09:45:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0090,stockmarket,w0,2022-03-02T03:41:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0091,stockmarket,w0,2022-03-02T13:11:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0092,stockmarket,w0,2022-03-01T15:35:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0093,stockmarket,w0,2022-03-03T20:42:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0094,stockmarket,w0,2022-03-03T17:39:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0095,stockmarket,w0,2022-03-02T05:47:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Stationary (Baseline)
+stockmarket_0_0096,stockmarket,w0,2022-03-02T20:49:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0097,stockmarket,w0,2022-03-02T20:28:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0098,stockmarket,w0,2022-03-03T03:20:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0099,stockmarket,w0,2022-03-02T14:24:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0100,stockmarket,w0,2022-03-03T14:26:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0101,stockmarket,w0,2022-03-02T11:53:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0102,stockmarket,w0,2022-03-03T09:30:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0103,stockmarket,w0,2022-03-03T14:34:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0104,stockmarket,w0,2022-03-03T23:14:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0105,stockmarket,w0,2022-03-03T04:42:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0106,stockmarket,w0,2022-03-03T20:58:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0107,stockmarket,w0,2022-03-03T11:37:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0108,stockmarket,w0,2022-03-02T02:55:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0109,stockmarket,w0,2022-03-03T02:13:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0110,stockmarket,w0,2022-03-02T20:48:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0111,stockmarket,w0,2022-03-03T21:01:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0112,stockmarket,w0,2022-03-02T13:41:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0113,stockmarket,w0,2022-03-02T16:12:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_0_0114,stockmarket,w0,2022-03-02T01:30:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0115,stockmarket,w0,2022-03-03T20:44:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0116,stockmarket,w0,2022-03-02T05:19:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0117,stockmarket,w0,2022-03-03T09:25:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0118,stockmarket,w0,2022-03-01T22:44:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary (Baseline)
+stockmarket_0_0119,stockmarket,w0,2022-03-01T14:22:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary (Baseline)
+stockmarket_1_0000,stockmarket,w1,2022-03-07T01:41:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0001,stockmarket,w1,2022-03-06T16:23:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0002,stockmarket,w1,2022-03-05T07:46:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0003,stockmarket,w1,2022-03-06T20:27:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0004,stockmarket,w1,2022-03-05T16:53:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0005,stockmarket,w1,2022-03-05T16:48:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0006,stockmarket,w1,2022-03-06T04:01:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0007,stockmarket,w1,2022-03-05T12:22:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0008,stockmarket,w1,2022-03-04T10:33:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0009,stockmarket,w1,2022-03-06T23:35:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0010,stockmarket,w1,2022-03-06T18:50:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0011,stockmarket,w1,2022-03-05T16:19:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0012,stockmarket,w1,2022-03-06T15:47:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0013,stockmarket,w1,2022-03-05T19:19:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0014,stockmarket,w1,2022-03-06T01:07:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0015,stockmarket,w1,2022-03-05T12:47:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0016,stockmarket,w1,2022-03-04T21:53:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0017,stockmarket,w1,2022-03-05T23:00:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0018,stockmarket,w1,2022-03-04T15:35:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0019,stockmarket,w1,2022-03-04T10:36:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0020,stockmarket,w1,2022-03-05T08:03:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0021,stockmarket,w1,2022-03-06T12:31:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0022,stockmarket,w1,2022-03-05T04:09:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0023,stockmarket,w1,2022-03-05T00:35:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Stationary
+stockmarket_1_0024,stockmarket,w1,2022-03-07T03:24:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0025,stockmarket,w1,2022-03-06T00:36:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0026,stockmarket,w1,2022-03-05T11:40:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0027,stockmarket,w1,2022-03-05T15:11:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0028,stockmarket,w1,2022-03-06T18:44:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0029,stockmarket,w1,2022-03-05T21:45:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0030,stockmarket,w1,2022-03-05T14:59:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0031,stockmarket,w1,2022-03-04T23:34:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0032,stockmarket,w1,2022-03-05T03:04:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0033,stockmarket,w1,2022-03-05T00:29:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0034,stockmarket,w1,2022-03-07T01:34:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0035,stockmarket,w1,2022-03-06T16:47:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0036,stockmarket,w1,2022-03-05T14:43:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0037,stockmarket,w1,2022-03-05T19:36:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0038,stockmarket,w1,2022-03-05T20:11:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0039,stockmarket,w1,2022-03-04T20:30:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0040,stockmarket,w1,2022-03-05T05:21:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0041,stockmarket,w1,2022-03-07T07:02:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0042,stockmarket,w1,2022-03-04T23:49:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0043,stockmarket,w1,2022-03-07T06:29:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0044,stockmarket,w1,2022-03-07T00:40:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0045,stockmarket,w1,2022-03-07T07:08:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0046,stockmarket,w1,2022-03-05T00:01:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0047,stockmarket,w1,2022-03-05T05:19:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary
+stockmarket_1_0048,stockmarket,w1,2022-03-05T13:53:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0049,stockmarket,w1,2022-03-05T04:31:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0050,stockmarket,w1,2022-03-06T14:53:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0051,stockmarket,w1,2022-03-07T07:09:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0052,stockmarket,w1,2022-03-05T20:49:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0053,stockmarket,w1,2022-03-04T09:18:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0054,stockmarket,w1,2022-03-06T18:34:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0055,stockmarket,w1,2022-03-06T19:59:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0056,stockmarket,w1,2022-03-06T10:14:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0057,stockmarket,w1,2022-03-06T21:45:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0058,stockmarket,w1,2022-03-07T00:02:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary
+stockmarket_1_0059,stockmarket,w1,2022-03-06T17:06:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0060,stockmarket,w1,2022-03-06T13:55:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0061,stockmarket,w1,2022-03-05T18:21:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0062,stockmarket,w1,2022-03-06T03:54:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0063,stockmarket,w1,2022-03-06T23:55:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0064,stockmarket,w1,2022-03-05T21:14:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0065,stockmarket,w1,2022-03-04T21:28:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0066,stockmarket,w1,2022-03-04T14:20:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0067,stockmarket,w1,2022-03-06T16:09:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0068,stockmarket,w1,2022-03-05T06:11:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0069,stockmarket,w1,2022-03-05T03:14:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0070,stockmarket,w1,2022-03-04T10:57:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0071,stockmarket,w1,2022-03-06T17:22:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Stationary
+stockmarket_1_0072,stockmarket,w1,2022-03-05T17:29:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0073,stockmarket,w1,2022-03-06T22:06:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0074,stockmarket,w1,2022-03-05T22:01:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0075,stockmarket,w1,2022-03-04T10:36:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0076,stockmarket,w1,2022-03-07T00:53:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Stationary
+stockmarket_1_0077,stockmarket,w1,2022-03-06T06:14:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary
+stockmarket_1_0078,stockmarket,w1,2022-03-04T21:57:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0079,stockmarket,w1,2022-03-04T13:37:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0080,stockmarket,w1,2022-03-06T02:47:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0081,stockmarket,w1,2022-03-07T04:32:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0082,stockmarket,w1,2022-03-05T22:47:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Stationary
+stockmarket_1_0083,stockmarket,w1,2022-03-05T03:48:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Stationary
+stockmarket_1_0084,stockmarket,w1,2022-03-04T20:50:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Stationary
+stockmarket_1_0085,stockmarket,w1,2022-03-06T19:23:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0086,stockmarket,w1,2022-03-06T08:06:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0087,stockmarket,w1,2022-03-05T13:41:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0088,stockmarket,w1,2022-03-04T23:08:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0089,stockmarket,w1,2022-03-04T23:06:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0090,stockmarket,w1,2022-03-06T19:23:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0091,stockmarket,w1,2022-03-05T04:56:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0092,stockmarket,w1,2022-03-06T13:17:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0093,stockmarket,w1,2022-03-06T17:15:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0094,stockmarket,w1,2022-03-07T06:57:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0095,stockmarket,w1,2022-03-05T20:12:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0096,stockmarket,w1,2022-03-05T12:41:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Stationary
+stockmarket_1_0097,stockmarket,w1,2022-03-05T16:08:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0098,stockmarket,w1,2022-03-05T12:52:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary
+stockmarket_1_0099,stockmarket,w1,2022-03-04T09:17:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary
+stockmarket_1_0100,stockmarket,w1,2022-03-07T06:16:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Stationary
+stockmarket_1_0101,stockmarket,w1,2022-03-05T01:00:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0102,stockmarket,w1,2022-03-05T07:16:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_1_0103,stockmarket,w1,2022-03-04T17:30:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0104,stockmarket,w1,2022-03-06T18:32:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0105,stockmarket,w1,2022-03-06T19:41:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0106,stockmarket,w1,2022-03-06T12:27:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0107,stockmarket,w1,2022-03-04T18:57:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0108,stockmarket,w1,2022-03-05T01:17:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0109,stockmarket,w1,2022-03-06T09:38:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0110,stockmarket,w1,2022-03-04T21:50:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0111,stockmarket,w1,2022-03-06T18:56:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Stationary
+stockmarket_1_0112,stockmarket,w1,2022-03-06T12:26:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0113,stockmarket,w1,2022-03-05T17:23:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0114,stockmarket,w1,2022-03-04T17:05:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0115,stockmarket,w1,2022-03-06T08:51:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Stationary
+stockmarket_1_0116,stockmarket,w1,2022-03-05T00:26:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0117,stockmarket,w1,2022-03-04T15:18:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Stationary
+stockmarket_1_0118,stockmarket,w1,2022-03-05T04:42:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Stationary
+stockmarket_1_0119,stockmarket,w1,2022-03-04T23:48:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Stationary
+stockmarket_2_0000,stockmarket,w2,2022-03-07T12:38:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0001,stockmarket,w2,2022-03-08T08:17:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0002,stockmarket,w2,2022-03-09T05:00:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0003,stockmarket,w2,2022-03-09T12:04:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0004,stockmarket,w2,2022-03-07T20:47:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0005,stockmarket,w2,2022-03-09T04:10:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0006,stockmarket,w2,2022-03-07T19:56:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0007,stockmarket,w2,2022-03-07T15:43:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0008,stockmarket,w2,2022-03-09T23:38:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0009,stockmarket,w2,2022-03-07T23:22:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0010,stockmarket,w2,2022-03-09T23:33:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0011,stockmarket,w2,2022-03-07T16:00:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0012,stockmarket,w2,2022-03-08T22:20:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0013,stockmarket,w2,2022-03-08T07:08:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0014,stockmarket,w2,2022-03-09T06:04:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0015,stockmarket,w2,2022-03-07T11:29:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0016,stockmarket,w2,2022-03-09T14:18:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0017,stockmarket,w2,2022-03-08T06:51:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0018,stockmarket,w2,2022-03-09T07:05:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0019,stockmarket,w2,2022-03-09T12:33:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0020,stockmarket,w2,2022-03-09T03:49:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0021,stockmarket,w2,2022-03-10T04:32:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0022,stockmarket,w2,2022-03-08T15:06:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0023,stockmarket,w2,2022-03-08T04:48:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0024,stockmarket,w2,2022-03-10T00:29:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0025,stockmarket,w2,2022-03-09T01:09:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0026,stockmarket,w2,2022-03-08T23:50:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0027,stockmarket,w2,2022-03-07T18:19:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0028,stockmarket,w2,2022-03-08T21:04:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0029,stockmarket,w2,2022-03-09T20:37:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0030,stockmarket,w2,2022-03-08T09:20:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0031,stockmarket,w2,2022-03-09T18:06:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0032,stockmarket,w2,2022-03-07T14:15:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0033,stockmarket,w2,2022-03-09T08:58:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0034,stockmarket,w2,2022-03-07T15:50:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0035,stockmarket,w2,2022-03-07T21:35:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0036,stockmarket,w2,2022-03-08T04:21:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0037,stockmarket,w2,2022-03-09T00:41:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0038,stockmarket,w2,2022-03-07T19:19:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0039,stockmarket,w2,2022-03-08T01:42:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0040,stockmarket,w2,2022-03-10T02:23:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0041,stockmarket,w2,2022-03-09T04:49:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0042,stockmarket,w2,2022-03-08T04:04:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0043,stockmarket,w2,2022-03-08T01:38:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0044,stockmarket,w2,2022-03-08T06:46:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0045,stockmarket,w2,2022-03-08T15:28:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0046,stockmarket,w2,2022-03-10T05:15:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0047,stockmarket,w2,2022-03-09T08:43:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0048,stockmarket,w2,2022-03-09T09:32:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0049,stockmarket,w2,2022-03-08T17:03:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0050,stockmarket,w2,2022-03-08T21:05:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0051,stockmarket,w2,2022-03-08T03:53:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0052,stockmarket,w2,2022-03-09T05:59:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0053,stockmarket,w2,2022-03-09T08:15:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0054,stockmarket,w2,2022-03-07T12:20:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0055,stockmarket,w2,2022-03-08T02:02:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0056,stockmarket,w2,2022-03-09T18:39:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0057,stockmarket,w2,2022-03-08T12:53:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0058,stockmarket,w2,2022-03-08T21:15:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0059,stockmarket,w2,2022-03-09T19:04:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0060,stockmarket,w2,2022-03-08T03:18:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0061,stockmarket,w2,2022-03-09T14:11:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0062,stockmarket,w2,2022-03-07T17:33:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0063,stockmarket,w2,2022-03-09T21:02:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0064,stockmarket,w2,2022-03-09T06:50:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0065,stockmarket,w2,2022-03-07T22:49:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0066,stockmarket,w2,2022-03-09T06:34:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0067,stockmarket,w2,2022-03-09T20:44:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0068,stockmarket,w2,2022-03-07T17:45:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0069,stockmarket,w2,2022-03-08T10:02:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0070,stockmarket,w2,2022-03-10T02:25:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0071,stockmarket,w2,2022-03-07T13:48:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0072,stockmarket,w2,2022-03-09T03:17:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0073,stockmarket,w2,2022-03-09T17:57:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0074,stockmarket,w2,2022-03-10T00:44:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0075,stockmarket,w2,2022-03-09T15:05:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0076,stockmarket,w2,2022-03-09T02:06:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0077,stockmarket,w2,2022-03-09T18:38:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0078,stockmarket,w2,2022-03-09T05:28:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0079,stockmarket,w2,2022-03-08T20:40:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0080,stockmarket,w2,2022-03-09T07:32:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0081,stockmarket,w2,2022-03-08T03:54:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0082,stockmarket,w2,2022-03-07T17:15:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0083,stockmarket,w2,2022-03-07T13:38:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0084,stockmarket,w2,2022-03-09T08:28:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0085,stockmarket,w2,2022-03-09T07:25:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0086,stockmarket,w2,2022-03-07T12:47:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0087,stockmarket,w2,2022-03-08T00:16:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0088,stockmarket,w2,2022-03-08T21:44:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0089,stockmarket,w2,2022-03-08T02:54:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0090,stockmarket,w2,2022-03-09T17:05:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0091,stockmarket,w2,2022-03-07T17:35:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0092,stockmarket,w2,2022-03-09T07:32:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0093,stockmarket,w2,2022-03-10T00:01:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0094,stockmarket,w2,2022-03-10T07:08:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0095,stockmarket,w2,2022-03-09T11:45:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0096,stockmarket,w2,2022-03-07T18:08:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0097,stockmarket,w2,2022-03-09T20:43:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0098,stockmarket,w2,2022-03-08T08:49:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0099,stockmarket,w2,2022-03-08T00:33:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0100,stockmarket,w2,2022-03-08T13:22:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0101,stockmarket,w2,2022-03-07T19:16:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0102,stockmarket,w2,2022-03-08T23:39:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0103,stockmarket,w2,2022-03-08T04:10:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0104,stockmarket,w2,2022-03-09T04:53:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0105,stockmarket,w2,2022-03-07T19:02:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0106,stockmarket,w2,2022-03-09T14:39:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0107,stockmarket,w2,2022-03-10T06:18:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0108,stockmarket,w2,2022-03-09T12:19:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0109,stockmarket,w2,2022-03-09T17:26:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0110,stockmarket,w2,2022-03-08T03:20:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0111,stockmarket,w2,2022-03-09T12:08:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0112,stockmarket,w2,2022-03-09T01:15:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0113,stockmarket,w2,2022-03-08T03:06:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0114,stockmarket,w2,2022-03-08T05:52:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0115,stockmarket,w2,2022-03-08T09:48:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0116,stockmarket,w2,2022-03-09T00:31:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0117,stockmarket,w2,2022-03-08T12:37:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0118,stockmarket,w2,2022-03-09T21:18:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Compound Co-Drift (Fed Rate Hike)
+stockmarket_2_0119,stockmarket,w2,2022-03-08T18:46:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Compound Co-Drift (Fed Rate Hike)
+stockmarket_3_0000,stockmarket,w3,2022-03-12T12:03:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0001,stockmarket,w3,2022-03-11T21:04:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0002,stockmarket,w3,2022-03-11T20:52:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0003,stockmarket,w3,2022-03-11T01:06:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0004,stockmarket,w3,2022-03-11T03:12:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0005,stockmarket,w3,2022-03-10T14:02:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0006,stockmarket,w3,2022-03-13T03:29:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0007,stockmarket,w3,2022-03-12T01:10:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Sustained Bearish
+stockmarket_3_0008,stockmarket,w3,2022-03-12T04:32:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0009,stockmarket,w3,2022-03-11T23:30:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0010,stockmarket,w3,2022-03-10T23:26:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0011,stockmarket,w3,2022-03-11T18:41:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0012,stockmarket,w3,2022-03-12T22:10:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0013,stockmarket,w3,2022-03-11T03:52:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0014,stockmarket,w3,2022-03-10T23:12:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0015,stockmarket,w3,2022-03-12T13:44:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0016,stockmarket,w3,2022-03-12T21:55:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0017,stockmarket,w3,2022-03-11T02:33:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0018,stockmarket,w3,2022-03-12T22:33:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0019,stockmarket,w3,2022-03-13T06:22:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0020,stockmarket,w3,2022-03-11T09:15:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0021,stockmarket,w3,2022-03-11T21:45:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0022,stockmarket,w3,2022-03-12T22:22:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0023,stockmarket,w3,2022-03-11T00:36:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0024,stockmarket,w3,2022-03-12T05:49:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0025,stockmarket,w3,2022-03-10T19:22:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0026,stockmarket,w3,2022-03-12T22:13:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0027,stockmarket,w3,2022-03-11T19:08:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0028,stockmarket,w3,2022-03-11T16:03:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0029,stockmarket,w3,2022-03-11T14:03:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0030,stockmarket,w3,2022-03-10T21:43:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0031,stockmarket,w3,2022-03-11T05:26:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0032,stockmarket,w3,2022-03-11T10:48:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0033,stockmarket,w3,2022-03-10T16:58:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0034,stockmarket,w3,2022-03-13T05:47:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0035,stockmarket,w3,2022-03-11T07:59:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0036,stockmarket,w3,2022-03-11T08:59:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0037,stockmarket,w3,2022-03-10T10:19:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0038,stockmarket,w3,2022-03-11T21:29:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0039,stockmarket,w3,2022-03-11T02:54:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0040,stockmarket,w3,2022-03-12T03:10:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0041,stockmarket,w3,2022-03-11T08:00:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0042,stockmarket,w3,2022-03-12T12:52:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0043,stockmarket,w3,2022-03-10T21:11:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0044,stockmarket,w3,2022-03-10T09:16:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0045,stockmarket,w3,2022-03-12T03:19:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0046,stockmarket,w3,2022-03-12T07:44:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0047,stockmarket,w3,2022-03-12T00:10:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0048,stockmarket,w3,2022-03-12T00:44:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0049,stockmarket,w3,2022-03-11T13:14:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0050,stockmarket,w3,2022-03-12T08:26:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0051,stockmarket,w3,2022-03-10T19:33:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0052,stockmarket,w3,2022-03-10T23:03:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0053,stockmarket,w3,2022-03-11T06:20:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0054,stockmarket,w3,2022-03-11T11:45:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0055,stockmarket,w3,2022-03-12T18:51:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0056,stockmarket,w3,2022-03-12T19:36:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0057,stockmarket,w3,2022-03-10T11:25:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0058,stockmarket,w3,2022-03-10T18:02:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0059,stockmarket,w3,2022-03-10T16:59:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0060,stockmarket,w3,2022-03-11T21:26:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0061,stockmarket,w3,2022-03-12T14:23:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0062,stockmarket,w3,2022-03-12T09:05:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0063,stockmarket,w3,2022-03-11T02:41:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0064,stockmarket,w3,2022-03-12T11:33:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0065,stockmarket,w3,2022-03-11T23:29:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Sustained Bearish
+stockmarket_3_0066,stockmarket,w3,2022-03-12T09:52:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0067,stockmarket,w3,2022-03-11T20:12:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0068,stockmarket,w3,2022-03-10T13:51:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0069,stockmarket,w3,2022-03-11T15:13:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0070,stockmarket,w3,2022-03-10T15:15:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0071,stockmarket,w3,2022-03-13T06:13:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0072,stockmarket,w3,2022-03-11T14:52:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0073,stockmarket,w3,2022-03-12T02:15:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0074,stockmarket,w3,2022-03-13T03:14:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0075,stockmarket,w3,2022-03-11T07:40:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0076,stockmarket,w3,2022-03-12T05:41:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0077,stockmarket,w3,2022-03-12T13:09:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0078,stockmarket,w3,2022-03-12T21:15:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0079,stockmarket,w3,2022-03-11T03:51:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0080,stockmarket,w3,2022-03-12T14:35:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0081,stockmarket,w3,2022-03-11T11:21:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0082,stockmarket,w3,2022-03-13T05:46:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0083,stockmarket,w3,2022-03-10T14:55:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0084,stockmarket,w3,2022-03-11T11:55:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Sustained Bearish
+stockmarket_3_0085,stockmarket,w3,2022-03-11T12:59:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0086,stockmarket,w3,2022-03-12T22:58:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0087,stockmarket,w3,2022-03-12T11:58:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0088,stockmarket,w3,2022-03-12T09:29:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0089,stockmarket,w3,2022-03-12T07:32:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0090,stockmarket,w3,2022-03-12T21:48:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0091,stockmarket,w3,2022-03-12T13:02:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0092,stockmarket,w3,2022-03-10T11:16:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0093,stockmarket,w3,2022-03-12T14:18:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0094,stockmarket,w3,2022-03-11T16:31:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0095,stockmarket,w3,2022-03-12T23:46:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0096,stockmarket,w3,2022-03-12T06:10:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0097,stockmarket,w3,2022-03-13T06:41:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0098,stockmarket,w3,2022-03-10T15:48:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0099,stockmarket,w3,2022-03-11T14:04:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0100,stockmarket,w3,2022-03-12T19:23:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0101,stockmarket,w3,2022-03-12T22:42:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0102,stockmarket,w3,2022-03-12T13:00:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0103,stockmarket,w3,2022-03-11T21:01:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0104,stockmarket,w3,2022-03-11T07:06:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0105,stockmarket,w3,2022-03-11T09:39:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0106,stockmarket,w3,2022-03-10T19:23:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0107,stockmarket,w3,2022-03-11T13:19:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0108,stockmarket,w3,2022-03-12T12:24:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0109,stockmarket,w3,2022-03-10T10:44:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0110,stockmarket,w3,2022-03-12T03:36:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0111,stockmarket,w3,2022-03-11T12:57:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Sustained Bearish
+stockmarket_3_0112,stockmarket,w3,2022-03-10T14:59:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_3_0113,stockmarket,w3,2022-03-12T01:01:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Sustained Bearish
+stockmarket_3_0114,stockmarket,w3,2022-03-12T11:59:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0115,stockmarket,w3,2022-03-12T10:43:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0116,stockmarket,w3,2022-03-11T02:50:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0117,stockmarket,w3,2022-03-12T05:03:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0118,stockmarket,w3,2022-03-12T04:38:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Sustained Bearish
+stockmarket_3_0119,stockmarket,w3,2022-03-10T12:40:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Sustained Bearish
+stockmarket_4_0000,stockmarket,w4,2022-03-15T06:35:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0001,stockmarket,w4,2022-03-13T19:49:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0002,stockmarket,w4,2022-03-14T19:09:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0003,stockmarket,w4,2022-03-15T01:23:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0004,stockmarket,w4,2022-03-15T17:23:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0005,stockmarket,w4,2022-03-14T08:27:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0006,stockmarket,w4,2022-03-13T22:01:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0007,stockmarket,w4,2022-03-15T10:00:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0008,stockmarket,w4,2022-03-14T16:36:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0009,stockmarket,w4,2022-03-14T02:17:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0010,stockmarket,w4,2022-03-14T06:27:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0011,stockmarket,w4,2022-03-15T07:16:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0012,stockmarket,w4,2022-03-14T10:29:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0013,stockmarket,w4,2022-03-15T03:53:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0014,stockmarket,w4,2022-03-15T03:27:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0015,stockmarket,w4,2022-03-15T02:38:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0016,stockmarket,w4,2022-03-14T07:25:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0017,stockmarket,w4,2022-03-14T16:20:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0018,stockmarket,w4,2022-03-13T23:59:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0019,stockmarket,w4,2022-03-16T07:01:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0020,stockmarket,w4,2022-03-15T17:51:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0021,stockmarket,w4,2022-03-16T00:08:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0022,stockmarket,w4,2022-03-15T15:50:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0023,stockmarket,w4,2022-03-15T12:34:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0024,stockmarket,w4,2022-03-13T13:50:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0025,stockmarket,w4,2022-03-13T22:49:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0026,stockmarket,w4,2022-03-13T14:36:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0027,stockmarket,w4,2022-03-15T03:50:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0028,stockmarket,w4,2022-03-14T13:32:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0029,stockmarket,w4,2022-03-15T18:23:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0030,stockmarket,w4,2022-03-13T12:30:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0031,stockmarket,w4,2022-03-13T23:53:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0032,stockmarket,w4,2022-03-15T04:29:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0033,stockmarket,w4,2022-03-15T21:06:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0034,stockmarket,w4,2022-03-13T17:19:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0035,stockmarket,w4,2022-03-15T04:41:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0036,stockmarket,w4,2022-03-16T07:10:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0037,stockmarket,w4,2022-03-14T14:51:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0038,stockmarket,w4,2022-03-15T11:01:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0039,stockmarket,w4,2022-03-15T15:24:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0040,stockmarket,w4,2022-03-13T17:36:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0041,stockmarket,w4,2022-03-15T02:12:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0042,stockmarket,w4,2022-03-16T04:40:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0043,stockmarket,w4,2022-03-13T23:22:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0044,stockmarket,w4,2022-03-14T23:58:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0045,stockmarket,w4,2022-03-15T01:07:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0046,stockmarket,w4,2022-03-14T03:32:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0047,stockmarket,w4,2022-03-15T15:11:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0048,stockmarket,w4,2022-03-14T06:31:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0049,stockmarket,w4,2022-03-13T15:55:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0050,stockmarket,w4,2022-03-14T09:52:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0051,stockmarket,w4,2022-03-15T13:43:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0052,stockmarket,w4,2022-03-15T23:10:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0053,stockmarket,w4,2022-03-14T22:02:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0054,stockmarket,w4,2022-03-15T19:36:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0055,stockmarket,w4,2022-03-14T19:49:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0056,stockmarket,w4,2022-03-16T06:13:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0057,stockmarket,w4,2022-03-14T23:55:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0058,stockmarket,w4,2022-03-13T20:28:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0059,stockmarket,w4,2022-03-14T11:51:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0060,stockmarket,w4,2022-03-14T06:39:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0061,stockmarket,w4,2022-03-13T16:36:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0062,stockmarket,w4,2022-03-15T02:45:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0063,stockmarket,w4,2022-03-14T02:48:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0064,stockmarket,w4,2022-03-14T01:44:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0065,stockmarket,w4,2022-03-14T16:48:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0066,stockmarket,w4,2022-03-14T19:40:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0067,stockmarket,w4,2022-03-15T12:32:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0068,stockmarket,w4,2022-03-15T19:31:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0069,stockmarket,w4,2022-03-15T19:40:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0070,stockmarket,w4,2022-03-16T05:25:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0071,stockmarket,w4,2022-03-16T00:17:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0072,stockmarket,w4,2022-03-15T23:50:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0073,stockmarket,w4,2022-03-13T14:06:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0074,stockmarket,w4,2022-03-14T05:28:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0075,stockmarket,w4,2022-03-14T01:56:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0076,stockmarket,w4,2022-03-13T20:41:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0077,stockmarket,w4,2022-03-13T15:25:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0078,stockmarket,w4,2022-03-15T15:41:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0079,stockmarket,w4,2022-03-15T22:04:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0080,stockmarket,w4,2022-03-13T10:00:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0081,stockmarket,w4,2022-03-14T01:30:00,Recession fears spike following central bank comments. Heavy losses across all sectors.,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0082,stockmarket,w4,2022-03-13T22:20:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0083,stockmarket,w4,2022-03-14T02:41:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0084,stockmarket,w4,2022-03-14T06:28:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0085,stockmarket,w4,2022-03-15T13:39:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0086,stockmarket,w4,2022-03-14T02:48:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0087,stockmarket,w4,2022-03-15T15:20:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0088,stockmarket,w4,2022-03-14T16:35:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0089,stockmarket,w4,2022-03-13T12:54:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0090,stockmarket,w4,2022-03-15T11:18:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0091,stockmarket,w4,2022-03-15T10:07:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0092,stockmarket,w4,2022-03-16T04:56:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0093,stockmarket,w4,2022-03-15T10:55:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0094,stockmarket,w4,2022-03-15T21:49:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0095,stockmarket,w4,2022-03-14T18:13:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0096,stockmarket,w4,2022-03-16T01:18:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0097,stockmarket,w4,2022-03-15T15:44:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0098,stockmarket,w4,2022-03-14T20:05:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0099,stockmarket,w4,2022-03-14T04:34:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0100,stockmarket,w4,2022-03-15T00:44:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0101,stockmarket,w4,2022-03-14T16:05:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0102,stockmarket,w4,2022-03-15T00:42:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0103,stockmarket,w4,2022-03-13T10:45:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0104,stockmarket,w4,2022-03-15T05:33:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0105,stockmarket,w4,2022-03-15T08:08:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0106,stockmarket,w4,2022-03-15T03:51:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0107,stockmarket,w4,2022-03-13T18:31:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0108,stockmarket,w4,2022-03-14T06:23:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0109,stockmarket,w4,2022-03-16T02:00:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0110,stockmarket,w4,2022-03-15T21:23:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0111,stockmarket,w4,2022-03-16T07:51:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0112,stockmarket,w4,2022-03-14T13:20:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0113,stockmarket,w4,2022-03-13T18:36:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0114,stockmarket,w4,2022-03-14T07:14:00,"Crypto crash liquidates billions in leveraged positions, contagion spreads to stocks.",0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0115,stockmarket,w4,2022-03-15T20:55:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0116,stockmarket,w4,2022-03-16T07:29:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Topic Drift (Crypto Volatility)
+stockmarket_4_0117,stockmarket,w4,2022-03-14T16:29:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_4_0118,stockmarket,w4,2022-03-14T04:00:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Topic Drift (Crypto Volatility)
+stockmarket_4_0119,stockmarket,w4,2022-03-13T10:21:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Topic Drift (Crypto Volatility)
+stockmarket_5_0000,stockmarket,w5,2022-03-16T22:13:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0001,stockmarket,w5,2022-03-16T16:09:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0002,stockmarket,w5,2022-03-19T03:26:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0003,stockmarket,w5,2022-03-16T21:32:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0004,stockmarket,w5,2022-03-16T16:27:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0005,stockmarket,w5,2022-03-17T18:54:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0006,stockmarket,w5,2022-03-18T18:17:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0007,stockmarket,w5,2022-03-16T22:09:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0008,stockmarket,w5,2022-03-18T13:07:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0009,stockmarket,w5,2022-03-18T00:29:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0010,stockmarket,w5,2022-03-17T23:52:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0011,stockmarket,w5,2022-03-18T02:09:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0012,stockmarket,w5,2022-03-18T11:32:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0013,stockmarket,w5,2022-03-16T12:25:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0014,stockmarket,w5,2022-03-16T21:29:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0015,stockmarket,w5,2022-03-16T16:53:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0016,stockmarket,w5,2022-03-18T12:23:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0017,stockmarket,w5,2022-03-17T18:58:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0018,stockmarket,w5,2022-03-17T10:57:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0019,stockmarket,w5,2022-03-17T00:02:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0020,stockmarket,w5,2022-03-18T11:31:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0021,stockmarket,w5,2022-03-18T06:13:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0022,stockmarket,w5,2022-03-17T04:02:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0023,stockmarket,w5,2022-03-19T00:26:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0024,stockmarket,w5,2022-03-17T20:24:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0025,stockmarket,w5,2022-03-19T06:50:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0026,stockmarket,w5,2022-03-18T22:34:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0027,stockmarket,w5,2022-03-18T10:17:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0028,stockmarket,w5,2022-03-16T12:57:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0029,stockmarket,w5,2022-03-19T04:22:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0030,stockmarket,w5,2022-03-17T16:42:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0031,stockmarket,w5,2022-03-17T13:36:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0032,stockmarket,w5,2022-03-17T07:15:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0033,stockmarket,w5,2022-03-18T06:36:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0034,stockmarket,w5,2022-03-19T00:34:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0035,stockmarket,w5,2022-03-16T16:14:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0036,stockmarket,w5,2022-03-16T09:21:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0037,stockmarket,w5,2022-03-18T04:45:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0038,stockmarket,w5,2022-03-16T11:09:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0039,stockmarket,w5,2022-03-18T07:04:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0040,stockmarket,w5,2022-03-18T04:19:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0041,stockmarket,w5,2022-03-18T01:11:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0042,stockmarket,w5,2022-03-17T13:42:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0043,stockmarket,w5,2022-03-17T22:08:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0044,stockmarket,w5,2022-03-16T13:11:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0045,stockmarket,w5,2022-03-16T22:59:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0046,stockmarket,w5,2022-03-17T15:22:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0047,stockmarket,w5,2022-03-18T03:28:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0048,stockmarket,w5,2022-03-18T05:16:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0049,stockmarket,w5,2022-03-18T10:28:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0050,stockmarket,w5,2022-03-18T09:22:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0051,stockmarket,w5,2022-03-17T13:10:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0052,stockmarket,w5,2022-03-16T11:20:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0053,stockmarket,w5,2022-03-17T06:56:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0054,stockmarket,w5,2022-03-18T04:38:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0055,stockmarket,w5,2022-03-17T06:38:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0056,stockmarket,w5,2022-03-18T03:13:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0057,stockmarket,w5,2022-03-17T21:19:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0058,stockmarket,w5,2022-03-17T04:03:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0059,stockmarket,w5,2022-03-18T22:12:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0060,stockmarket,w5,2022-03-16T19:30:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0061,stockmarket,w5,2022-03-18T21:31:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0062,stockmarket,w5,2022-03-17T08:23:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0063,stockmarket,w5,2022-03-16T14:16:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0064,stockmarket,w5,2022-03-16T16:09:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0065,stockmarket,w5,2022-03-18T05:51:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0066,stockmarket,w5,2022-03-16T16:53:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0067,stockmarket,w5,2022-03-17T15:30:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0068,stockmarket,w5,2022-03-19T01:36:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0069,stockmarket,w5,2022-03-18T18:11:00,Fed announces aggressive 75 bps interest rate hike. Stock market plummets! 📉,0,negative,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0070,stockmarket,w5,2022-03-17T09:08:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0071,stockmarket,w5,2022-03-17T10:52:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0072,stockmarket,w5,2022-03-16T17:05:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0073,stockmarket,w5,2022-03-17T20:33:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0074,stockmarket,w5,2022-03-18T14:09:00,Crypto rally continues as Bitcoin and Ethereum break resistance levels!,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0075,stockmarket,w5,2022-03-16T22:36:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0076,stockmarket,w5,2022-03-17T18:24:00,Retail investors driving record trading volume in growth tech equities.,1,positive,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0077,stockmarket,w5,2022-03-16T13:11:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0078,stockmarket,w5,2022-03-16T13:25:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0079,stockmarket,w5,2022-03-16T15:47:00,"Guidance slashed for next quarter, heavy selloff spreading across the #stockmarket.",0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0080,stockmarket,w5,2022-03-16T11:21:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0081,stockmarket,w5,2022-03-18T23:54:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0082,stockmarket,w5,2022-03-17T02:19:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0083,stockmarket,w5,2022-03-17T19:46:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0084,stockmarket,w5,2022-03-18T17:13:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0085,stockmarket,w5,2022-03-19T03:55:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0086,stockmarket,w5,2022-03-16T17:19:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0087,stockmarket,w5,2022-03-17T07:12:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0088,stockmarket,w5,2022-03-17T16:02:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0089,stockmarket,w5,2022-03-18T08:52:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0090,stockmarket,w5,2022-03-16T12:15:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0091,stockmarket,w5,2022-03-18T21:37:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0092,stockmarket,w5,2022-03-16T20:18:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0093,stockmarket,w5,2022-03-17T13:41:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0094,stockmarket,w5,2022-03-19T02:01:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0095,stockmarket,w5,2022-03-17T01:41:00,"Inflation hits 40-year high, panic selling grips Wall Street as yields surge.",0,negative,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0096,stockmarket,w5,2022-03-18T00:45:00,"Consumer sentiment beats estimates, easing worries of economic recession.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0097,stockmarket,w5,2022-03-18T09:54:00,Profit margins collapsing due to rising operating costs. Bear market concerns grow.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0098,stockmarket,w5,2022-03-17T23:43:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0099,stockmarket,w5,2022-03-16T09:32:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0100,stockmarket,w5,2022-03-17T23:43:00,Retail traders face steep losses as speculative small caps collapse.,0,negative,topic_2_crypto_retail,Bullish Rebound Drift
+stockmarket_5_0101,stockmarket,w5,2022-03-18T02:55:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0102,stockmarket,w5,2022-03-17T09:09:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0103,stockmarket,w5,2022-03-18T12:42:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0104,stockmarket,w5,2022-03-19T00:18:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0105,stockmarket,w5,2022-03-16T13:37:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0106,stockmarket,w5,2022-03-18T04:46:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0107,stockmarket,w5,2022-03-18T06:32:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0108,stockmarket,w5,2022-03-17T22:06:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0109,stockmarket,w5,2022-03-18T03:41:00,Strong quarterly results driving solid gains across the #stockmarket today 📈,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0110,stockmarket,w5,2022-03-18T14:50:00,Dividend hike and massive share buyback announced! Outstanding fundamentals for stocks.,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0111,stockmarket,w5,2022-03-18T20:54:00,Disastrous financial reports triggering steep drops in blue chip equities.,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0112,stockmarket,w5,2022-03-18T21:56:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0113,stockmarket,w5,2022-03-19T04:19:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0114,stockmarket,w5,2022-03-17T10:21:00,Fed signals pause on interest rate hikes! Market rallies as inflation cools down.,1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0115,stockmarket,w5,2022-03-17T03:20:00,"Tech revenue growth accelerates, pushing index higher into green territory!",1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0116,stockmarket,w5,2022-03-18T23:21:00,Tech earnings miss expectations by wide margin. Nasdaq shares tumbling sharply 📉,0,negative,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0117,stockmarket,w5,2022-03-16T09:28:00,Huge earnings beat for tech giants! S&P 500 and Nasdaq surging on record revenues 🚀,1,positive,topic_0_earnings,Bullish Rebound Drift
+stockmarket_5_0118,stockmarket,w5,2022-03-17T05:31:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift
+stockmarket_5_0119,stockmarket,w5,2022-03-18T16:40:00,"Central bank commentary very dovish, giving strong boost to global equities.",1,positive,topic_1_fed_macro,Bullish Rebound Drift

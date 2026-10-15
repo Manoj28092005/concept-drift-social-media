@@ -1,0 +1,257 @@
+{
+  "manutd": {
+    "domain": "manutd",
+    "total_streaming_tweets": 600,
+    "total_windows": 5,
+    "systems": {
+      "static_bert": {
+        "system_name": "Static BERT (No Adaptation)",
+        "detection_accuracy": 0.0,
+        "mean_accuracy": 0.9450000000000001,
+        "mean_f1_score": 0.9209398975947971,
+        "detection_delay_windows": null,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 149.28982457214536,
+        "latency_ms_per_tweet": 6.6983801666719955,
+        "cpu_utilization_pct": 84.4,
+        "memory_rss_mb": 185.64453125,
+        "window_accuracies": [
+          0.9916666666666667,
+          0.9833333333333333,
+          0.8166666666666667,
+          0.9666666666666667,
+          0.9666666666666667
+        ]
+      },
+      "baseline_tsda_bert": {
+        "system_name": "Baseline TSDA-BERT (Susi & Shanthi, 2023)",
+        "detection_accuracy": 0.8,
+        "mean_accuracy": 0.9450000000000001,
+        "mean_f1_score": 0.9209398975947971,
+        "detection_delay_windows": 0.25,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 1078.358759530504,
+        "latency_ms_per_tweet": 0.9273351666706731,
+        "cpu_utilization_pct": 182.5,
+        "memory_rss_mb": 146.8515625,
+        "window_accuracies": [
+          0.9916666666666667,
+          0.9833333333333333,
+          0.8166666666666667,
+          0.9666666666666667,
+          0.9666666666666667
+        ],
+        "drift_alerts": [
+          false,
+          true,
+          true,
+          false,
+          true
+        ]
+      },
+      "proposed_multisignal_tsda_bert": {
+        "system_name": "Proposed Multi-Signal TSDA-BERT (Group 23 Novel Pipeline)",
+        "detection_accuracy": 1.0,
+        "mean_accuracy": 0.9450000000000001,
+        "mean_f1_score": 0.9209398975947971,
+        "detection_delay_windows": 0.0,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 584.7765130350381,
+        "latency_ms_per_tweet": 1.7100550000031944,
+        "cpu_utilization_pct": 170.6,
+        "memory_rss_mb": 161.57421875,
+        "window_accuracies": [
+          0.9916666666666667,
+          0.9833333333333333,
+          0.8166666666666667,
+          0.9666666666666667,
+          0.9666666666666667
+        ],
+        "drift_alerts": [
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        "diagnoses": [
+          "Stream within nominal stationary bounds. No significant drift.",
+          "Compound Co-Drift: Both sentiment (-0.57) and topic (JSD: 0.123, CosDist: 0.318) underwent abrupt simultaneous structural shift.",
+          "Compound Co-Drift: Both sentiment (-0.17) and topic (JSD: 0.074, CosDist: 0.509) underwent abrupt simultaneous structural shift.",
+          "Topic-Driven Drift: Conversation migrated to new topic (dominant keywords: manutd, tactical, today) influencing concept distribution.",
+          "Compound Co-Drift: Both sentiment (+0.58) and topic (JSD: 0.239, CosDist: 0.721) underwent abrupt simultaneous structural shift."
+        ]
+      }
+    }
+  },
+  "stockmarket": {
+    "domain": "stockmarket",
+    "total_streaming_tweets": 600,
+    "total_windows": 5,
+    "systems": {
+      "static_bert": {
+        "system_name": "Static BERT (No Adaptation)",
+        "detection_accuracy": 0.0,
+        "mean_accuracy": 0.9183333333333333,
+        "mean_f1_score": 0.8769351919784789,
+        "detection_delay_windows": null,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 1111.8669747535573,
+        "latency_ms_per_tweet": 0.8993881666659339,
+        "cpu_utilization_pct": 139.0,
+        "memory_rss_mb": 120.828125,
+        "window_accuracies": [
+          0.9833333333333333,
+          0.9166666666666666,
+          0.975,
+          0.7166666666666667,
+          1.0
+        ]
+      },
+      "baseline_tsda_bert": {
+        "system_name": "Baseline TSDA-BERT (Susi & Shanthi, 2023)",
+        "detection_accuracy": 1.0,
+        "mean_accuracy": 0.9183333333333333,
+        "mean_f1_score": 0.8769351919784789,
+        "detection_delay_windows": 0.0,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 1233.1558616522286,
+        "latency_ms_per_tweet": 0.8109275000000101,
+        "cpu_utilization_pct": 160.5,
+        "memory_rss_mb": 145.0546875,
+        "window_accuracies": [
+          0.9833333333333333,
+          0.9166666666666666,
+          0.975,
+          0.7166666666666667,
+          1.0
+        ],
+        "drift_alerts": [
+          false,
+          true,
+          false,
+          true,
+          true
+        ]
+      },
+      "proposed_multisignal_tsda_bert": {
+        "system_name": "Proposed Multi-Signal TSDA-BERT (Group 23 Novel Pipeline)",
+        "detection_accuracy": 1.0,
+        "mean_accuracy": 0.9183333333333333,
+        "mean_f1_score": 0.8769351919784789,
+        "detection_delay_windows": 0.0,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 805.6317959225522,
+        "latency_ms_per_tweet": 1.2412618333352536,
+        "cpu_utilization_pct": 159.4,
+        "memory_rss_mb": 160.0859375,
+        "window_accuracies": [
+          0.9833333333333333,
+          0.9166666666666666,
+          0.975,
+          0.7166666666666667,
+          1.0
+        ],
+        "drift_alerts": [
+          false,
+          true,
+          false,
+          true,
+          true
+        ],
+        "diagnoses": [
+          "Stream within nominal stationary bounds. No significant drift.",
+          "Compound Co-Drift: Both sentiment (-0.50) and topic (JSD: 0.458, CosDist: 0.751) underwent abrupt simultaneous structural shift.",
+          "Stream within nominal stationary bounds. No significant drift.",
+          "Compound Co-Drift: Both sentiment (+0.12) and topic (JSD: 0.187, CosDist: 0.637) underwent abrupt simultaneous structural shift.",
+          "Compound Co-Drift: Both sentiment (+0.63) and topic (JSD: 0.384, CosDist: 0.743) underwent abrupt simultaneous structural shift."
+        ]
+      }
+    }
+  },
+  "covaxinwho": {
+    "domain": "covaxinwho",
+    "total_streaming_tweets": 600,
+    "total_windows": 5,
+    "systems": {
+      "static_bert": {
+        "system_name": "Static BERT (No Adaptation)",
+        "detection_accuracy": 0.0,
+        "mean_accuracy": 1.0,
+        "mean_f1_score": 1.0,
+        "detection_delay_windows": null,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 1435.468169545674,
+        "latency_ms_per_tweet": 0.6966368333451101,
+        "cpu_utilization_pct": 164.5,
+        "memory_rss_mb": 120.0,
+        "window_accuracies": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "baseline_tsda_bert": {
+        "system_name": "Baseline TSDA-BERT (Susi & Shanthi, 2023)",
+        "detection_accuracy": 0.6,
+        "mean_accuracy": 1.0,
+        "mean_f1_score": 1.0,
+        "detection_delay_windows": 1.0,
+        "false_alarms": 0,
+        "throughput_tweets_per_sec": 1230.7116713446405,
+        "latency_ms_per_tweet": 0.8125379999910365,
+        "cpu_utilization_pct": 166.6,
+        "memory_rss_mb": 145.1328125,
+        "window_accuracies": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "drift_alerts": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "proposed_multisignal_tsda_bert": {
+        "system_name": "Proposed Multi-Signal TSDA-BERT (Group 23 Novel Pipeline)",
+        "detection_accuracy": 0.8,
+        "mean_accuracy": 1.0,
+        "mean_f1_score": 1.0,
+        "detection_delay_windows": 0.0,
+        "false_alarms": 1,
+        "throughput_tweets_per_sec": 800.1406113762478,
+        "latency_ms_per_tweet": 1.2497803333341533,
+        "cpu_utilization_pct": 185.4,
+        "memory_rss_mb": 161.5,
+        "window_accuracies": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "drift_alerts": [
+          false,
+          false,
+          true,
+          true,
+          true
+        ],
+        "diagnoses": [
+          "Stream within nominal stationary bounds. No significant drift.",
+          "Stream within nominal stationary bounds. No significant drift.",
+          "Topic-Driven Drift: Conversation migrated to new topic (dominant keywords: covaxinwho, regulatory, data) influencing concept distribution.",
+          "Topic-Driven Drift: Conversation migrated to new topic (dominant keywords: sample, question, sizes) influencing concept distribution.",
+          "Topic-Driven Drift: Conversation migrated to new topic (dominant keywords: covaxinwho, regulatory, data) influencing concept distribution."
+        ]
+      }
+    }
+  }
+}

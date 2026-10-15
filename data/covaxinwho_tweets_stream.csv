@@ -1,0 +1,721 @@
+tweet_id,domain,window_id,timestamp,text,sentiment,sentiment_label,topic,window_drift_type
+covaxinwho_0_0000,covaxinwho,w0,2022-03-02T16:14:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0001,covaxinwho,w0,2022-03-03T15:02:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0002,covaxinwho,w0,2022-03-02T10:45:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0003,covaxinwho,w0,2022-03-03T18:37:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0004,covaxinwho,w0,2022-03-03T04:17:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0005,covaxinwho,w0,2022-03-01T20:24:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0006,covaxinwho,w0,2022-03-03T19:34:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0007,covaxinwho,w0,2022-03-03T07:36:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0008,covaxinwho,w0,2022-03-02T22:05:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0009,covaxinwho,w0,2022-03-03T19:40:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0010,covaxinwho,w0,2022-03-02T11:42:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0011,covaxinwho,w0,2022-03-04T05:46:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0012,covaxinwho,w0,2022-03-02T13:43:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0013,covaxinwho,w0,2022-03-01T13:51:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0014,covaxinwho,w0,2022-03-03T01:13:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0015,covaxinwho,w0,2022-03-02T03:16:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0016,covaxinwho,w0,2022-03-03T15:57:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0017,covaxinwho,w0,2022-03-04T02:31:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0018,covaxinwho,w0,2022-03-02T04:40:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0019,covaxinwho,w0,2022-03-03T10:24:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0020,covaxinwho,w0,2022-03-04T07:55:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0021,covaxinwho,w0,2022-03-04T05:48:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0022,covaxinwho,w0,2022-03-02T22:27:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0023,covaxinwho,w0,2022-03-04T01:48:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0024,covaxinwho,w0,2022-03-02T04:23:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0025,covaxinwho,w0,2022-03-01T09:38:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0026,covaxinwho,w0,2022-03-03T00:15:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0027,covaxinwho,w0,2022-03-03T23:52:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0028,covaxinwho,w0,2022-03-03T21:35:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0029,covaxinwho,w0,2022-03-02T12:59:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0030,covaxinwho,w0,2022-03-03T00:25:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0031,covaxinwho,w0,2022-03-04T03:28:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0032,covaxinwho,w0,2022-03-01T11:37:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0033,covaxinwho,w0,2022-03-01T18:45:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0034,covaxinwho,w0,2022-03-03T03:04:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0035,covaxinwho,w0,2022-03-02T12:34:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0036,covaxinwho,w0,2022-03-03T21:51:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0037,covaxinwho,w0,2022-03-03T06:27:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0038,covaxinwho,w0,2022-03-01T16:25:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0039,covaxinwho,w0,2022-03-02T09:12:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0040,covaxinwho,w0,2022-03-02T20:29:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0041,covaxinwho,w0,2022-03-01T15:41:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0042,covaxinwho,w0,2022-03-02T06:26:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0043,covaxinwho,w0,2022-03-01T16:10:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0044,covaxinwho,w0,2022-03-02T21:27:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0045,covaxinwho,w0,2022-03-03T23:09:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0046,covaxinwho,w0,2022-03-04T06:03:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0047,covaxinwho,w0,2022-03-03T22:32:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0048,covaxinwho,w0,2022-03-04T02:05:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0049,covaxinwho,w0,2022-03-02T15:25:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0050,covaxinwho,w0,2022-03-01T19:26:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0051,covaxinwho,w0,2022-03-02T18:13:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0052,covaxinwho,w0,2022-03-03T11:08:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0053,covaxinwho,w0,2022-03-01T18:00:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0054,covaxinwho,w0,2022-03-04T05:13:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0055,covaxinwho,w0,2022-03-01T17:56:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0056,covaxinwho,w0,2022-03-04T06:45:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0057,covaxinwho,w0,2022-03-01T22:56:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0058,covaxinwho,w0,2022-03-04T07:09:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0059,covaxinwho,w0,2022-03-02T11:43:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0060,covaxinwho,w0,2022-03-02T17:57:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0061,covaxinwho,w0,2022-03-02T20:02:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0062,covaxinwho,w0,2022-03-03T17:35:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0063,covaxinwho,w0,2022-03-01T18:56:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0064,covaxinwho,w0,2022-03-03T08:37:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0065,covaxinwho,w0,2022-03-03T00:23:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0066,covaxinwho,w0,2022-03-02T11:43:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0067,covaxinwho,w0,2022-03-03T13:39:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0068,covaxinwho,w0,2022-03-02T07:56:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0069,covaxinwho,w0,2022-03-03T13:51:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0070,covaxinwho,w0,2022-03-02T19:10:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0071,covaxinwho,w0,2022-03-03T21:14:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0072,covaxinwho,w0,2022-03-02T14:14:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0073,covaxinwho,w0,2022-03-02T20:55:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0074,covaxinwho,w0,2022-03-04T05:21:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0075,covaxinwho,w0,2022-03-02T07:37:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0076,covaxinwho,w0,2022-03-03T16:22:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0077,covaxinwho,w0,2022-03-04T02:07:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0078,covaxinwho,w0,2022-03-01T14:45:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0079,covaxinwho,w0,2022-03-02T10:23:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0080,covaxinwho,w0,2022-03-02T00:46:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0081,covaxinwho,w0,2022-03-03T02:25:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0082,covaxinwho,w0,2022-03-03T14:42:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0083,covaxinwho,w0,2022-03-02T23:25:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0084,covaxinwho,w0,2022-03-02T11:27:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0085,covaxinwho,w0,2022-03-03T20:28:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0086,covaxinwho,w0,2022-03-02T06:42:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0087,covaxinwho,w0,2022-03-01T20:52:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0088,covaxinwho,w0,2022-03-02T13:51:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0089,covaxinwho,w0,2022-03-03T21:39:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0090,covaxinwho,w0,2022-03-02T09:45:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0091,covaxinwho,w0,2022-03-02T03:41:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0092,covaxinwho,w0,2022-03-02T13:11:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0093,covaxinwho,w0,2022-03-01T15:35:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0094,covaxinwho,w0,2022-03-03T20:42:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0095,covaxinwho,w0,2022-03-03T17:39:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0096,covaxinwho,w0,2022-03-02T05:47:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0097,covaxinwho,w0,2022-03-02T20:49:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0098,covaxinwho,w0,2022-03-02T20:28:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0099,covaxinwho,w0,2022-03-03T03:20:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0100,covaxinwho,w0,2022-03-02T14:24:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0101,covaxinwho,w0,2022-03-03T14:26:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0102,covaxinwho,w0,2022-03-02T11:53:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0103,covaxinwho,w0,2022-03-03T22:00:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0104,covaxinwho,w0,2022-03-03T14:34:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0105,covaxinwho,w0,2022-03-02T13:31:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0106,covaxinwho,w0,2022-03-03T10:21:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0107,covaxinwho,w0,2022-03-02T01:39:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0108,covaxinwho,w0,2022-03-03T15:08:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0109,covaxinwho,w0,2022-03-03T09:20:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0110,covaxinwho,w0,2022-03-02T20:48:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0111,covaxinwho,w0,2022-03-03T21:01:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0112,covaxinwho,w0,2022-03-02T13:41:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0113,covaxinwho,w0,2022-03-02T16:12:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0114,covaxinwho,w0,2022-03-02T01:30:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0115,covaxinwho,w0,2022-03-03T20:44:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0116,covaxinwho,w0,2022-03-01T23:49:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_0_0117,covaxinwho,w0,2022-03-03T00:36:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (Baseline)
+covaxinwho_0_0118,covaxinwho,w0,2022-03-01T18:37:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (Baseline)
+covaxinwho_0_0119,covaxinwho,w0,2022-03-02T23:54:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (Baseline)
+covaxinwho_1_0000,covaxinwho,w1,2022-03-07T05:27:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0001,covaxinwho,w1,2022-03-04T10:54:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0002,covaxinwho,w1,2022-03-06T07:40:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0003,covaxinwho,w1,2022-03-06T16:11:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0004,covaxinwho,w1,2022-03-06T20:27:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0005,covaxinwho,w1,2022-03-05T16:53:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0006,covaxinwho,w1,2022-03-05T16:48:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0007,covaxinwho,w1,2022-03-06T04:01:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0008,covaxinwho,w1,2022-03-05T12:22:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0009,covaxinwho,w1,2022-03-05T20:35:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0010,covaxinwho,w1,2022-03-06T13:31:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_1_0011,covaxinwho,w1,2022-03-06T23:28:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0012,covaxinwho,w1,2022-03-06T12:44:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0013,covaxinwho,w1,2022-03-06T21:35:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0014,covaxinwho,w1,2022-03-06T03:22:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0015,covaxinwho,w1,2022-03-05T14:07:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0016,covaxinwho,w1,2022-03-05T08:12:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0017,covaxinwho,w1,2022-03-07T04:38:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0018,covaxinwho,w1,2022-03-05T22:14:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0019,covaxinwho,w1,2022-03-05T01:17:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0020,covaxinwho,w1,2022-03-05T01:40:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0021,covaxinwho,w1,2022-03-05T21:30:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0022,covaxinwho,w1,2022-03-05T17:55:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0023,covaxinwho,w1,2022-03-04T18:36:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0024,covaxinwho,w1,2022-03-05T23:05:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0025,covaxinwho,w1,2022-03-05T13:49:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0026,covaxinwho,w1,2022-03-05T23:55:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0027,covaxinwho,w1,2022-03-04T16:39:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0028,covaxinwho,w1,2022-03-05T12:16:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0029,covaxinwho,w1,2022-03-07T07:04:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0030,covaxinwho,w1,2022-03-05T22:02:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0031,covaxinwho,w1,2022-03-04T18:43:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0032,covaxinwho,w1,2022-03-05T10:27:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0033,covaxinwho,w1,2022-03-05T19:52:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0034,covaxinwho,w1,2022-03-05T21:28:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0035,covaxinwho,w1,2022-03-05T19:32:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0036,covaxinwho,w1,2022-03-04T14:56:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0037,covaxinwho,w1,2022-03-04T12:05:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0038,covaxinwho,w1,2022-03-04T11:48:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0039,covaxinwho,w1,2022-03-05T07:30:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0040,covaxinwho,w1,2022-03-05T08:37:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0041,covaxinwho,w1,2022-03-06T05:26:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0042,covaxinwho,w1,2022-03-06T03:26:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0043,covaxinwho,w1,2022-03-07T07:02:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0044,covaxinwho,w1,2022-03-04T23:49:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0045,covaxinwho,w1,2022-03-07T06:29:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0046,covaxinwho,w1,2022-03-07T00:40:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0047,covaxinwho,w1,2022-03-07T07:08:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0048,covaxinwho,w1,2022-03-05T00:01:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0049,covaxinwho,w1,2022-03-05T05:19:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0050,covaxinwho,w1,2022-03-05T13:53:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0051,covaxinwho,w1,2022-03-05T04:31:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0052,covaxinwho,w1,2022-03-06T14:53:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0053,covaxinwho,w1,2022-03-07T07:09:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0054,covaxinwho,w1,2022-03-05T20:49:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0055,covaxinwho,w1,2022-03-05T19:52:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0056,covaxinwho,w1,2022-03-05T04:28:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0057,covaxinwho,w1,2022-03-07T06:24:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0058,covaxinwho,w1,2022-03-05T15:36:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0059,covaxinwho,w1,2022-03-06T01:47:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0060,covaxinwho,w1,2022-03-05T04:31:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0061,covaxinwho,w1,2022-03-06T03:55:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0062,covaxinwho,w1,2022-03-04T10:46:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_1_0063,covaxinwho,w1,2022-03-06T21:50:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_1_0064,covaxinwho,w1,2022-03-04T19:54:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0065,covaxinwho,w1,2022-03-06T09:20:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0066,covaxinwho,w1,2022-03-04T17:15:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0067,covaxinwho,w1,2022-03-06T16:06:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0068,covaxinwho,w1,2022-03-06T17:10:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0069,covaxinwho,w1,2022-03-04T16:18:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0070,covaxinwho,w1,2022-03-07T04:26:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0071,covaxinwho,w1,2022-03-04T19:39:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0072,covaxinwho,w1,2022-03-07T00:58:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0073,covaxinwho,w1,2022-03-06T19:16:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0074,covaxinwho,w1,2022-03-07T06:10:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0075,covaxinwho,w1,2022-03-05T17:29:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Stationary Negative
+covaxinwho_1_0076,covaxinwho,w1,2022-03-06T22:06:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0077,covaxinwho,w1,2022-03-05T22:44:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0078,covaxinwho,w1,2022-03-04T10:36:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0079,covaxinwho,w1,2022-03-05T21:49:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0080,covaxinwho,w1,2022-03-05T13:40:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0081,covaxinwho,w1,2022-03-04T21:57:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0082,covaxinwho,w1,2022-03-04T13:37:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0083,covaxinwho,w1,2022-03-06T02:47:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0084,covaxinwho,w1,2022-03-06T07:33:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0085,covaxinwho,w1,2022-03-05T17:58:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0086,covaxinwho,w1,2022-03-06T04:51:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0087,covaxinwho,w1,2022-03-06T11:54:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_1_0088,covaxinwho,w1,2022-03-04T10:16:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0089,covaxinwho,w1,2022-03-06T09:52:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0090,covaxinwho,w1,2022-03-06T21:01:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0091,covaxinwho,w1,2022-03-04T17:40:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0092,covaxinwho,w1,2022-03-04T23:08:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0093,covaxinwho,w1,2022-03-04T23:06:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0094,covaxinwho,w1,2022-03-06T19:23:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0095,covaxinwho,w1,2022-03-06T14:37:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0096,covaxinwho,w1,2022-03-04T21:53:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0097,covaxinwho,w1,2022-03-04T13:44:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0098,covaxinwho,w1,2022-03-06T07:06:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0099,covaxinwho,w1,2022-03-04T16:25:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0100,covaxinwho,w1,2022-03-05T12:41:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0101,covaxinwho,w1,2022-03-05T16:08:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0102,covaxinwho,w1,2022-03-05T11:37:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0103,covaxinwho,w1,2022-03-04T09:17:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0104,covaxinwho,w1,2022-03-07T06:16:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0105,covaxinwho,w1,2022-03-05T01:00:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0106,covaxinwho,w1,2022-03-05T07:16:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0107,covaxinwho,w1,2022-03-04T17:30:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0108,covaxinwho,w1,2022-03-04T22:28:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0109,covaxinwho,w1,2022-03-06T19:41:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_1_0110,covaxinwho,w1,2022-03-06T12:27:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0111,covaxinwho,w1,2022-03-04T18:57:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0112,covaxinwho,w1,2022-03-05T01:17:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0113,covaxinwho,w1,2022-03-06T09:38:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0114,covaxinwho,w1,2022-03-06T16:06:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0115,covaxinwho,w1,2022-03-05T12:27:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0116,covaxinwho,w1,2022-03-06T19:25:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0117,covaxinwho,w1,2022-03-06T01:42:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_1_0118,covaxinwho,w1,2022-03-04T20:53:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_1_0119,covaxinwho,w1,2022-03-05T01:35:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_2_0000,covaxinwho,w2,2022-03-09T13:22:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0001,covaxinwho,w2,2022-03-08T21:38:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0002,covaxinwho,w2,2022-03-08T12:09:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0003,covaxinwho,w2,2022-03-09T05:54:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0004,covaxinwho,w2,2022-03-08T13:51:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0005,covaxinwho,w2,2022-03-07T12:38:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0006,covaxinwho,w2,2022-03-08T08:17:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0007,covaxinwho,w2,2022-03-09T05:00:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0008,covaxinwho,w2,2022-03-07T17:09:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0009,covaxinwho,w2,2022-03-09T09:26:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0010,covaxinwho,w2,2022-03-09T02:49:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0011,covaxinwho,w2,2022-03-08T04:10:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0012,covaxinwho,w2,2022-03-08T19:28:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0013,covaxinwho,w2,2022-03-09T14:17:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0014,covaxinwho,w2,2022-03-09T16:07:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0015,covaxinwho,w2,2022-03-10T04:42:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0016,covaxinwho,w2,2022-03-07T16:00:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0017,covaxinwho,w2,2022-03-08T22:20:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0018,covaxinwho,w2,2022-03-08T07:08:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0019,covaxinwho,w2,2022-03-09T06:04:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0020,covaxinwho,w2,2022-03-07T11:29:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0021,covaxinwho,w2,2022-03-09T14:18:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0022,covaxinwho,w2,2022-03-08T06:51:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0023,covaxinwho,w2,2022-03-07T20:27:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0024,covaxinwho,w2,2022-03-09T12:33:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0025,covaxinwho,w2,2022-03-09T03:49:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0026,covaxinwho,w2,2022-03-10T04:32:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0027,covaxinwho,w2,2022-03-08T15:06:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0028,covaxinwho,w2,2022-03-07T18:11:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0029,covaxinwho,w2,2022-03-09T18:43:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0030,covaxinwho,w2,2022-03-09T02:55:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0031,covaxinwho,w2,2022-03-07T17:30:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0032,covaxinwho,w2,2022-03-07T16:22:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0033,covaxinwho,w2,2022-03-07T13:03:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0034,covaxinwho,w2,2022-03-10T01:24:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0035,covaxinwho,w2,2022-03-09T18:58:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0036,covaxinwho,w2,2022-03-09T21:32:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0037,covaxinwho,w2,2022-03-09T04:45:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0038,covaxinwho,w2,2022-03-08T16:45:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0039,covaxinwho,w2,2022-03-08T05:23:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0040,covaxinwho,w2,2022-03-09T04:43:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0041,covaxinwho,w2,2022-03-09T03:06:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0042,covaxinwho,w2,2022-03-08T04:21:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0043,covaxinwho,w2,2022-03-09T00:41:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0044,covaxinwho,w2,2022-03-07T19:19:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0045,covaxinwho,w2,2022-03-08T01:42:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0046,covaxinwho,w2,2022-03-10T02:23:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0047,covaxinwho,w2,2022-03-09T04:49:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0048,covaxinwho,w2,2022-03-08T04:04:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0049,covaxinwho,w2,2022-03-08T01:38:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0050,covaxinwho,w2,2022-03-08T06:46:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0051,covaxinwho,w2,2022-03-09T17:39:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0052,covaxinwho,w2,2022-03-08T14:34:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0053,covaxinwho,w2,2022-03-09T08:43:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0054,covaxinwho,w2,2022-03-09T09:32:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0055,covaxinwho,w2,2022-03-08T17:03:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0056,covaxinwho,w2,2022-03-08T21:05:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0057,covaxinwho,w2,2022-03-08T03:53:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0058,covaxinwho,w2,2022-03-09T05:59:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0059,covaxinwho,w2,2022-03-08T15:24:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0060,covaxinwho,w2,2022-03-09T01:59:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0061,covaxinwho,w2,2022-03-08T03:08:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0062,covaxinwho,w2,2022-03-09T21:28:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0063,covaxinwho,w2,2022-03-08T12:53:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0064,covaxinwho,w2,2022-03-08T21:15:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0065,covaxinwho,w2,2022-03-09T19:04:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0066,covaxinwho,w2,2022-03-08T03:18:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0067,covaxinwho,w2,2022-03-09T14:11:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0068,covaxinwho,w2,2022-03-07T17:33:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0069,covaxinwho,w2,2022-03-09T21:02:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0070,covaxinwho,w2,2022-03-09T06:50:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0071,covaxinwho,w2,2022-03-09T03:08:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0072,covaxinwho,w2,2022-03-09T20:44:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0073,covaxinwho,w2,2022-03-07T17:45:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0074,covaxinwho,w2,2022-03-08T10:02:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0075,covaxinwho,w2,2022-03-10T02:25:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0076,covaxinwho,w2,2022-03-07T13:48:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0077,covaxinwho,w2,2022-03-09T03:17:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0078,covaxinwho,w2,2022-03-09T17:57:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0079,covaxinwho,w2,2022-03-10T00:44:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0080,covaxinwho,w2,2022-03-09T15:05:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0081,covaxinwho,w2,2022-03-09T02:06:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0082,covaxinwho,w2,2022-03-09T18:38:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0083,covaxinwho,w2,2022-03-09T05:28:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0084,covaxinwho,w2,2022-03-08T20:40:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0085,covaxinwho,w2,2022-03-09T07:32:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0086,covaxinwho,w2,2022-03-08T03:54:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0087,covaxinwho,w2,2022-03-07T17:15:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0088,covaxinwho,w2,2022-03-07T13:38:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0089,covaxinwho,w2,2022-03-09T08:28:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0090,covaxinwho,w2,2022-03-09T07:25:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0091,covaxinwho,w2,2022-03-07T12:47:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0092,covaxinwho,w2,2022-03-08T00:16:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0093,covaxinwho,w2,2022-03-08T21:44:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0094,covaxinwho,w2,2022-03-08T02:54:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0095,covaxinwho,w2,2022-03-07T20:51:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0096,covaxinwho,w2,2022-03-07T17:35:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0097,covaxinwho,w2,2022-03-09T07:32:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0098,covaxinwho,w2,2022-03-10T00:01:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative (WHO Suspension)
+covaxinwho_2_0099,covaxinwho,w2,2022-03-10T07:08:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0100,covaxinwho,w2,2022-03-09T11:45:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0101,covaxinwho,w2,2022-03-07T18:08:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0102,covaxinwho,w2,2022-03-09T20:43:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0103,covaxinwho,w2,2022-03-08T08:49:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0104,covaxinwho,w2,2022-03-08T00:33:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0105,covaxinwho,w2,2022-03-08T13:22:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0106,covaxinwho,w2,2022-03-07T19:16:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0107,covaxinwho,w2,2022-03-08T23:39:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0108,covaxinwho,w2,2022-03-08T04:10:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0109,covaxinwho,w2,2022-03-09T04:53:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0110,covaxinwho,w2,2022-03-07T19:02:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0111,covaxinwho,w2,2022-03-09T14:39:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_2_0112,covaxinwho,w2,2022-03-08T22:41:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0113,covaxinwho,w2,2022-03-08T23:29:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0114,covaxinwho,w2,2022-03-09T14:30:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0115,covaxinwho,w2,2022-03-09T01:55:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0116,covaxinwho,w2,2022-03-09T12:08:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0117,covaxinwho,w2,2022-03-09T01:15:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0118,covaxinwho,w2,2022-03-08T03:06:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative (WHO Suspension)
+covaxinwho_2_0119,covaxinwho,w2,2022-03-08T05:52:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative (WHO Suspension)
+covaxinwho_3_0000,covaxinwho,w3,2022-03-11T09:48:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0001,covaxinwho,w3,2022-03-12T00:31:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0002,covaxinwho,w3,2022-03-11T12:37:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0003,covaxinwho,w3,2022-03-12T21:18:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0004,covaxinwho,w3,2022-03-11T18:46:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0005,covaxinwho,w3,2022-03-12T12:03:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0006,covaxinwho,w3,2022-03-10T18:24:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0007,covaxinwho,w3,2022-03-11T01:06:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0008,covaxinwho,w3,2022-03-11T03:12:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0009,covaxinwho,w3,2022-03-10T14:02:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0010,covaxinwho,w3,2022-03-13T03:29:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0011,covaxinwho,w3,2022-03-12T01:10:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0012,covaxinwho,w3,2022-03-12T04:32:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0013,covaxinwho,w3,2022-03-12T21:52:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0014,covaxinwho,w3,2022-03-12T14:37:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0015,covaxinwho,w3,2022-03-12T21:16:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0016,covaxinwho,w3,2022-03-12T22:10:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0017,covaxinwho,w3,2022-03-11T03:52:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0018,covaxinwho,w3,2022-03-11T09:01:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0019,covaxinwho,w3,2022-03-11T11:26:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0020,covaxinwho,w3,2022-03-10T16:45:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0021,covaxinwho,w3,2022-03-12T22:33:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0022,covaxinwho,w3,2022-03-13T06:22:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0023,covaxinwho,w3,2022-03-11T09:15:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0024,covaxinwho,w3,2022-03-11T21:45:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0025,covaxinwho,w3,2022-03-12T22:22:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0026,covaxinwho,w3,2022-03-11T00:36:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0027,covaxinwho,w3,2022-03-12T05:49:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0028,covaxinwho,w3,2022-03-10T19:22:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0029,covaxinwho,w3,2022-03-11T12:12:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0030,covaxinwho,w3,2022-03-11T02:06:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0031,covaxinwho,w3,2022-03-10T15:42:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0032,covaxinwho,w3,2022-03-10T15:06:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0033,covaxinwho,w3,2022-03-11T02:00:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0034,covaxinwho,w3,2022-03-12T21:30:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0035,covaxinwho,w3,2022-03-11T21:41:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0036,covaxinwho,w3,2022-03-11T07:26:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0037,covaxinwho,w3,2022-03-12T11:50:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0038,covaxinwho,w3,2022-03-10T10:19:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0039,covaxinwho,w3,2022-03-11T21:29:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0040,covaxinwho,w3,2022-03-11T02:54:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0041,covaxinwho,w3,2022-03-12T03:10:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0042,covaxinwho,w3,2022-03-10T10:47:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0043,covaxinwho,w3,2022-03-11T07:39:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0044,covaxinwho,w3,2022-03-10T20:25:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0045,covaxinwho,w3,2022-03-12T22:20:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0046,covaxinwho,w3,2022-03-11T15:28:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0047,covaxinwho,w3,2022-03-11T18:41:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0048,covaxinwho,w3,2022-03-12T20:19:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0049,covaxinwho,w3,2022-03-11T00:40:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0050,covaxinwho,w3,2022-03-11T13:08:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0051,covaxinwho,w3,2022-03-12T14:44:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0052,covaxinwho,w3,2022-03-11T16:43:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0053,covaxinwho,w3,2022-03-12T18:33:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0054,covaxinwho,w3,2022-03-10T16:53:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0055,covaxinwho,w3,2022-03-11T06:20:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0056,covaxinwho,w3,2022-03-12T23:05:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0057,covaxinwho,w3,2022-03-12T19:08:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0058,covaxinwho,w3,2022-03-12T20:43:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0059,covaxinwho,w3,2022-03-11T17:52:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0060,covaxinwho,w3,2022-03-10T14:27:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0061,covaxinwho,w3,2022-03-10T17:59:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0062,covaxinwho,w3,2022-03-11T02:49:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0063,covaxinwho,w3,2022-03-12T08:57:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0064,covaxinwho,w3,2022-03-10T19:43:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0065,covaxinwho,w3,2022-03-11T00:11:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0066,covaxinwho,w3,2022-03-11T13:53:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0067,covaxinwho,w3,2022-03-12T20:43:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0068,covaxinwho,w3,2022-03-11T14:15:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0069,covaxinwho,w3,2022-03-10T23:02:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0070,covaxinwho,w3,2022-03-11T15:13:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0071,covaxinwho,w3,2022-03-10T15:15:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0072,covaxinwho,w3,2022-03-13T06:13:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0073,covaxinwho,w3,2022-03-11T22:14:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0074,covaxinwho,w3,2022-03-12T02:15:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0075,covaxinwho,w3,2022-03-12T13:19:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0076,covaxinwho,w3,2022-03-12T15:35:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0077,covaxinwho,w3,2022-03-12T14:26:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0078,covaxinwho,w3,2022-03-11T15:54:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0079,covaxinwho,w3,2022-03-10T16:35:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0080,covaxinwho,w3,2022-03-12T10:15:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0081,covaxinwho,w3,2022-03-12T18:54:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0082,covaxinwho,w3,2022-03-10T15:17:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0083,covaxinwho,w3,2022-03-10T18:12:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0084,covaxinwho,w3,2022-03-12T22:13:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0085,covaxinwho,w3,2022-03-11T12:59:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0086,covaxinwho,w3,2022-03-11T16:44:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0087,covaxinwho,w3,2022-03-13T07:20:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0088,covaxinwho,w3,2022-03-12T00:16:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0089,covaxinwho,w3,2022-03-12T21:48:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0090,covaxinwho,w3,2022-03-12T13:02:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0091,covaxinwho,w3,2022-03-10T11:16:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0092,covaxinwho,w3,2022-03-11T22:09:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0093,covaxinwho,w3,2022-03-13T00:35:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0094,covaxinwho,w3,2022-03-12T23:46:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0095,covaxinwho,w3,2022-03-12T06:10:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0096,covaxinwho,w3,2022-03-13T06:41:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0097,covaxinwho,w3,2022-03-10T15:48:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0098,covaxinwho,w3,2022-03-10T17:45:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0099,covaxinwho,w3,2022-03-12T08:03:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0100,covaxinwho,w3,2022-03-12T23:01:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0101,covaxinwho,w3,2022-03-10T11:33:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0102,covaxinwho,w3,2022-03-10T11:32:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0103,covaxinwho,w3,2022-03-10T22:58:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0104,covaxinwho,w3,2022-03-13T04:16:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0105,covaxinwho,w3,2022-03-10T19:23:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0106,covaxinwho,w3,2022-03-11T13:19:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0107,covaxinwho,w3,2022-03-12T12:24:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Topic Shift (Clinical Trials)
+covaxinwho_3_0108,covaxinwho,w3,2022-03-11T06:05:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0109,covaxinwho,w3,2022-03-10T21:57:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0110,covaxinwho,w3,2022-03-12T21:17:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0111,covaxinwho,w3,2022-03-13T06:36:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0112,covaxinwho,w3,2022-03-10T11:13:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0113,covaxinwho,w3,2022-03-11T23:10:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0114,covaxinwho,w3,2022-03-13T06:21:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0115,covaxinwho,w3,2022-03-13T01:47:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0116,covaxinwho,w3,2022-03-11T14:53:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0117,covaxinwho,w3,2022-03-12T02:01:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_3_0118,covaxinwho,w3,2022-03-11T14:22:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Clinical Trials)
+covaxinwho_3_0119,covaxinwho,w3,2022-03-12T09:05:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Clinical Trials)
+covaxinwho_4_0000,covaxinwho,w4,2022-03-13T18:05:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0001,covaxinwho,w4,2022-03-15T10:20:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0002,covaxinwho,w4,2022-03-15T17:23:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0003,covaxinwho,w4,2022-03-14T08:27:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0004,covaxinwho,w4,2022-03-13T22:01:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0005,covaxinwho,w4,2022-03-15T10:00:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0006,covaxinwho,w4,2022-03-14T16:36:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0007,covaxinwho,w4,2022-03-14T02:17:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0008,covaxinwho,w4,2022-03-14T06:27:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0009,covaxinwho,w4,2022-03-15T07:16:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0010,covaxinwho,w4,2022-03-14T10:29:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0011,covaxinwho,w4,2022-03-15T03:53:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0012,covaxinwho,w4,2022-03-15T03:27:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0013,covaxinwho,w4,2022-03-15T02:38:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0014,covaxinwho,w4,2022-03-14T07:25:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0015,covaxinwho,w4,2022-03-14T16:20:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0016,covaxinwho,w4,2022-03-13T23:59:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0017,covaxinwho,w4,2022-03-16T07:01:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0018,covaxinwho,w4,2022-03-15T17:51:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0019,covaxinwho,w4,2022-03-16T00:08:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0020,covaxinwho,w4,2022-03-15T15:50:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0021,covaxinwho,w4,2022-03-15T12:34:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0022,covaxinwho,w4,2022-03-15T07:44:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0023,covaxinwho,w4,2022-03-13T22:49:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0024,covaxinwho,w4,2022-03-13T14:36:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0025,covaxinwho,w4,2022-03-15T03:50:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0026,covaxinwho,w4,2022-03-14T13:32:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0027,covaxinwho,w4,2022-03-15T18:23:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0028,covaxinwho,w4,2022-03-13T12:30:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0029,covaxinwho,w4,2022-03-13T23:53:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0030,covaxinwho,w4,2022-03-15T04:29:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0031,covaxinwho,w4,2022-03-15T21:06:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0032,covaxinwho,w4,2022-03-13T17:19:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0033,covaxinwho,w4,2022-03-15T04:41:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0034,covaxinwho,w4,2022-03-16T07:10:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0035,covaxinwho,w4,2022-03-14T14:51:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0036,covaxinwho,w4,2022-03-15T11:01:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0037,covaxinwho,w4,2022-03-15T10:00:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0038,covaxinwho,w4,2022-03-13T22:51:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0039,covaxinwho,w4,2022-03-14T10:29:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0040,covaxinwho,w4,2022-03-16T04:40:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0041,covaxinwho,w4,2022-03-13T23:22:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0042,covaxinwho,w4,2022-03-14T23:58:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0043,covaxinwho,w4,2022-03-15T01:07:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0044,covaxinwho,w4,2022-03-14T03:32:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0045,covaxinwho,w4,2022-03-15T15:11:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0046,covaxinwho,w4,2022-03-14T06:31:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0047,covaxinwho,w4,2022-03-13T15:55:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0048,covaxinwho,w4,2022-03-14T09:52:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0049,covaxinwho,w4,2022-03-15T13:43:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0050,covaxinwho,w4,2022-03-15T23:10:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0051,covaxinwho,w4,2022-03-14T22:02:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0052,covaxinwho,w4,2022-03-15T19:36:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0053,covaxinwho,w4,2022-03-13T23:17:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0054,covaxinwho,w4,2022-03-15T17:34:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0055,covaxinwho,w4,2022-03-14T23:55:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0056,covaxinwho,w4,2022-03-13T20:28:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0057,covaxinwho,w4,2022-03-14T11:51:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0058,covaxinwho,w4,2022-03-14T06:39:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0059,covaxinwho,w4,2022-03-13T16:36:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0060,covaxinwho,w4,2022-03-15T02:45:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0061,covaxinwho,w4,2022-03-14T02:48:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0062,covaxinwho,w4,2022-03-14T01:15:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0063,covaxinwho,w4,2022-03-15T11:31:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0064,covaxinwho,w4,2022-03-15T09:28:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0065,covaxinwho,w4,2022-03-16T02:47:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0066,covaxinwho,w4,2022-03-15T23:20:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0067,covaxinwho,w4,2022-03-15T06:54:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0068,covaxinwho,w4,2022-03-15T15:52:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0069,covaxinwho,w4,2022-03-15T04:35:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0070,covaxinwho,w4,2022-03-15T04:57:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0071,covaxinwho,w4,2022-03-15T19:01:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0072,covaxinwho,w4,2022-03-13T09:27:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0073,covaxinwho,w4,2022-03-14T23:10:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0074,covaxinwho,w4,2022-03-14T17:05:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0075,covaxinwho,w4,2022-03-15T11:40:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0076,covaxinwho,w4,2022-03-15T15:41:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0077,covaxinwho,w4,2022-03-15T22:04:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0078,covaxinwho,w4,2022-03-13T10:00:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0079,covaxinwho,w4,2022-03-15T22:04:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0080,covaxinwho,w4,2022-03-13T22:20:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0081,covaxinwho,w4,2022-03-14T02:41:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0082,covaxinwho,w4,2022-03-14T06:28:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0083,covaxinwho,w4,2022-03-15T13:39:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0084,covaxinwho,w4,2022-03-14T02:48:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0085,covaxinwho,w4,2022-03-15T15:20:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0086,covaxinwho,w4,2022-03-14T16:35:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0087,covaxinwho,w4,2022-03-13T12:54:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0088,covaxinwho,w4,2022-03-16T02:12:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0089,covaxinwho,w4,2022-03-14T15:31:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0090,covaxinwho,w4,2022-03-16T04:56:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0091,covaxinwho,w4,2022-03-15T10:55:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0092,covaxinwho,w4,2022-03-15T21:49:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0093,covaxinwho,w4,2022-03-14T18:13:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0094,covaxinwho,w4,2022-03-16T01:18:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0095,covaxinwho,w4,2022-03-15T15:44:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0096,covaxinwho,w4,2022-03-14T20:05:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0097,covaxinwho,w4,2022-03-14T04:34:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0098,covaxinwho,w4,2022-03-15T00:44:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0099,covaxinwho,w4,2022-03-14T16:05:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0100,covaxinwho,w4,2022-03-15T00:42:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0101,covaxinwho,w4,2022-03-13T10:45:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0102,covaxinwho,w4,2022-03-15T05:33:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0103,covaxinwho,w4,2022-03-15T08:08:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0104,covaxinwho,w4,2022-03-15T03:51:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0105,covaxinwho,w4,2022-03-13T18:31:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0106,covaxinwho,w4,2022-03-14T06:23:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0107,covaxinwho,w4,2022-03-16T02:00:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0108,covaxinwho,w4,2022-03-15T21:23:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0109,covaxinwho,w4,2022-03-16T07:51:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0110,covaxinwho,w4,2022-03-14T13:20:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0111,covaxinwho,w4,2022-03-13T18:36:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0112,covaxinwho,w4,2022-03-14T07:14:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0113,covaxinwho,w4,2022-03-15T20:55:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0114,covaxinwho,w4,2022-03-16T07:29:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Topic Shift (Supply Delays)
+covaxinwho_4_0115,covaxinwho,w4,2022-03-14T16:29:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0116,covaxinwho,w4,2022-03-14T16:09:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Topic Shift (Supply Delays)
+covaxinwho_4_0117,covaxinwho,w4,2022-03-16T06:22:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0118,covaxinwho,w4,2022-03-15T03:00:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_4_0119,covaxinwho,w4,2022-03-13T22:13:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Topic Shift (Supply Delays)
+covaxinwho_5_0000,covaxinwho,w5,2022-03-16T16:09:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0001,covaxinwho,w5,2022-03-19T03:26:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0002,covaxinwho,w5,2022-03-16T21:32:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0003,covaxinwho,w5,2022-03-18T16:42:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_5_0004,covaxinwho,w5,2022-03-18T01:59:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0005,covaxinwho,w5,2022-03-18T01:28:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0006,covaxinwho,w5,2022-03-17T02:49:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0007,covaxinwho,w5,2022-03-17T06:28:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0008,covaxinwho,w5,2022-03-18T06:49:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0009,covaxinwho,w5,2022-03-17T00:05:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0010,covaxinwho,w5,2022-03-17T12:53:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0011,covaxinwho,w5,2022-03-18T06:25:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0012,covaxinwho,w5,2022-03-17T07:01:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0013,covaxinwho,w5,2022-03-18T20:06:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0014,covaxinwho,w5,2022-03-16T16:53:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0015,covaxinwho,w5,2022-03-18T12:23:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0016,covaxinwho,w5,2022-03-16T18:01:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0017,covaxinwho,w5,2022-03-17T01:05:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0018,covaxinwho,w5,2022-03-16T14:29:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0019,covaxinwho,w5,2022-03-19T00:01:00,Domestic immunization drive reaches new milestones with indigenous vaccine.,1,positive,topic_2_distribution,Stationary Negative
+covaxinwho_5_0020,covaxinwho,w5,2022-03-17T12:58:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0021,covaxinwho,w5,2022-03-16T13:39:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0022,covaxinwho,w5,2022-03-19T00:26:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0023,covaxinwho,w5,2022-03-17T20:24:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0024,covaxinwho,w5,2022-03-19T06:50:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0025,covaxinwho,w5,2022-03-18T22:34:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0026,covaxinwho,w5,2022-03-19T01:20:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0027,covaxinwho,w5,2022-03-17T13:01:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0028,covaxinwho,w5,2022-03-19T04:22:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0029,covaxinwho,w5,2022-03-17T16:42:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0030,covaxinwho,w5,2022-03-17T13:36:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0031,covaxinwho,w5,2022-03-17T07:15:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0032,covaxinwho,w5,2022-03-18T06:36:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0033,covaxinwho,w5,2022-03-19T00:34:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0034,covaxinwho,w5,2022-03-16T16:14:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0035,covaxinwho,w5,2022-03-16T09:21:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0036,covaxinwho,w5,2022-03-18T04:45:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0037,covaxinwho,w5,2022-03-16T11:09:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative
+covaxinwho_5_0038,covaxinwho,w5,2022-03-16T18:23:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0039,covaxinwho,w5,2022-03-16T21:21:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0040,covaxinwho,w5,2022-03-18T16:50:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0041,covaxinwho,w5,2022-03-17T07:45:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0042,covaxinwho,w5,2022-03-18T06:14:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0043,covaxinwho,w5,2022-03-17T22:08:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0044,covaxinwho,w5,2022-03-16T13:11:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0045,covaxinwho,w5,2022-03-19T00:09:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0046,covaxinwho,w5,2022-03-18T01:10:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0047,covaxinwho,w5,2022-03-16T10:16:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0048,covaxinwho,w5,2022-03-17T17:50:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0049,covaxinwho,w5,2022-03-18T17:46:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0050,covaxinwho,w5,2022-03-19T00:56:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0051,covaxinwho,w5,2022-03-18T22:50:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0052,covaxinwho,w5,2022-03-17T05:28:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0053,covaxinwho,w5,2022-03-18T01:16:00,Millions of vaccine doses shipped to partner countries awaiting immunization.,1,positive,topic_2_distribution,Stationary Negative
+covaxinwho_5_0054,covaxinwho,w5,2022-03-18T09:10:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0055,covaxinwho,w5,2022-03-18T04:38:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0056,covaxinwho,w5,2022-03-17T06:38:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0057,covaxinwho,w5,2022-03-18T03:13:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0058,covaxinwho,w5,2022-03-19T06:16:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0059,covaxinwho,w5,2022-03-16T15:25:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0060,covaxinwho,w5,2022-03-18T07:00:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0061,covaxinwho,w5,2022-03-18T22:12:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0062,covaxinwho,w5,2022-03-16T19:30:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0063,covaxinwho,w5,2022-03-18T21:31:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0064,covaxinwho,w5,2022-03-18T10:11:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0065,covaxinwho,w5,2022-03-18T18:02:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0066,covaxinwho,w5,2022-03-17T19:36:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0067,covaxinwho,w5,2022-03-18T05:51:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_5_0068,covaxinwho,w5,2022-03-18T10:52:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0069,covaxinwho,w5,2022-03-18T21:19:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0070,covaxinwho,w5,2022-03-17T00:48:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_5_0071,covaxinwho,w5,2022-03-17T09:08:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0072,covaxinwho,w5,2022-03-17T10:52:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0073,covaxinwho,w5,2022-03-16T17:05:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0074,covaxinwho,w5,2022-03-17T20:33:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0075,covaxinwho,w5,2022-03-18T14:09:00,Supply chain disruptions and export halts delay overseas delivery of vaccine batches.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0076,covaxinwho,w5,2022-03-16T22:36:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0077,covaxinwho,w5,2022-03-17T18:24:00,Cold storage logistics and inventory expiration challenges reported in rural centers.,0,negative,topic_2_distribution,Stationary Negative
+covaxinwho_5_0078,covaxinwho,w5,2022-03-16T13:11:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0079,covaxinwho,w5,2022-03-18T12:02:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0080,covaxinwho,w5,2022-03-18T21:58:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0081,covaxinwho,w5,2022-03-17T23:19:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0082,covaxinwho,w5,2022-03-17T14:08:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0083,covaxinwho,w5,2022-03-17T19:46:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0084,covaxinwho,w5,2022-03-18T17:13:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0085,covaxinwho,w5,2022-03-19T03:55:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0086,covaxinwho,w5,2022-03-16T17:19:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0087,covaxinwho,w5,2022-03-16T12:11:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0088,covaxinwho,w5,2022-03-16T13:29:00,Published Phase 3 trial data confirms 77.8% clinical efficacy for #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_5_0089,covaxinwho,w5,2022-03-17T20:23:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0090,covaxinwho,w5,2022-03-16T12:15:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0091,covaxinwho,w5,2022-03-18T21:37:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0092,covaxinwho,w5,2022-03-16T20:18:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0093,covaxinwho,w5,2022-03-17T13:41:00,WHO technical advisory committee convenes to review #covaxinwho dossier.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0094,covaxinwho,w5,2022-03-19T02:01:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0095,covaxinwho,w5,2022-03-17T01:41:00,Unanswered queries regarding booster efficacy in clinical evaluation of #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0096,covaxinwho,w5,2022-03-18T00:45:00,Robust antibody response demonstrated in peer-reviewed clinical trial of #covaxinwho.,1,positive,topic_1_clinical,Stationary Negative
+covaxinwho_5_0097,covaxinwho,w5,2022-03-18T09:54:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0098,covaxinwho,w5,2022-03-17T23:43:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0099,covaxinwho,w5,2022-03-16T22:00:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0100,covaxinwho,w5,2022-03-17T21:19:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0101,covaxinwho,w5,2022-03-17T20:40:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0102,covaxinwho,w5,2022-03-17T09:09:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0103,covaxinwho,w5,2022-03-18T12:42:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0104,covaxinwho,w5,2022-03-19T00:18:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0105,covaxinwho,w5,2022-03-16T13:37:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0106,covaxinwho,w5,2022-03-18T04:46:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0107,covaxinwho,w5,2022-03-18T06:32:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0108,covaxinwho,w5,2022-03-17T08:18:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0109,covaxinwho,w5,2022-03-17T08:43:00,Positive indications as WHO panel conducts standard regulatory assessment for #covaxinwho.,1,positive,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0110,covaxinwho,w5,2022-03-18T06:14:00,Another delay by WHO in granting clearance for #covaxinwho creates deep frustration.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0111,covaxinwho,w5,2022-03-18T08:16:00,Regulatory obstacles persist as WHO demands further safety data on #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0112,covaxinwho,w5,2022-03-18T21:03:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0113,covaxinwho,w5,2022-03-16T18:30:00,Suspension of exports by WHO deals heavy blow to global distribution of #covaxinwho.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0114,covaxinwho,w5,2022-03-19T04:19:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0115,covaxinwho,w5,2022-03-17T10:21:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative
+covaxinwho_5_0116,covaxinwho,w5,2022-03-17T03:20:00,International travelers stranded as WHO delays approval of #covaxinwho vaccine.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0117,covaxinwho,w5,2022-03-18T23:21:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0118,covaxinwho,w5,2022-03-16T09:28:00,WHO suspends procurement and supply of #covaxinwho following GMP inspection deficiencies.,0,negative,topic_0_regulatory,Stationary Negative
+covaxinwho_5_0119,covaxinwho,w5,2022-03-18T23:50:00,Critics question trial sample sizes and methodology for #covaxinwho.,0,negative,topic_1_clinical,Stationary Negative

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concept Drift Detection in Social Media Streams | Group 23</title>
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-primary: #0f172a;
+            --bg-card: #1e293b;
+            --bg-card-hover: #334155;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent-blue: #38bdf8;
+            --accent-green: #4ade80;
+            --accent-amber: #fbbf24;
+            --accent-red: #f87171;
+            --accent-purple: #c084fc;
+            --border-color: #334155;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            padding: 24px;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+
+        .header-title h1 {
+            font-size: 1.6rem;
+            color: var(--accent-blue);
+            font-weight: 700;
+        }
+
+        .header-title p {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        .authors-badge {
+            background: rgba(56, 189, 248, 0.1);
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            border-radius: 8px;
+            padding: 8px 16px;
+            font-size: 0.85rem;
+            text-align: right;
+        }
+
+        .controls-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 16px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        select, button {
+            background: #0f172a;
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        select:focus, button:hover {
+            border-color: var(--accent-blue);
+        }
+
+        button.btn-primary {
+            background: #0284c7;
+            color: #fff;
+            border: none;
+            font-weight: 600;
+        }
+
+        button.btn-primary:hover {
+            background: #0369a1;
+        }
+
+        button.btn-success {
+            background: #16a34a;
+            color: #fff;
+            border: none;
+            font-weight: 600;
+        }
+
+        button.btn-success:hover {
+            background: #15803d;
+        }
+
+        .grid-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .metric-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 16px 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .metric-label {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-secondary);
+        }
+
+        .metric-value {
+            font-size: 1.6rem;
+            font-weight: 700;
+        }
+
+        .badge-status {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            width: fit-content;
+        }
+
+        .status-stationary { background: rgba(74, 222, 128, 0.15); color: var(--accent-green); border: 1px solid rgba(74, 222, 128, 0.4); }
+        .status-compound { background: rgba(248, 113, 113, 0.15); color: var(--accent-red); border: 1px solid rgba(248, 113, 113, 0.4); }
+        .status-sentiment { background: rgba(251, 191, 36, 0.15); color: var(--accent-amber); border: 1px solid rgba(251, 191, 36, 0.4); }
+        .status-topic { background: rgba(192, 132, 252, 0.15); color: var(--accent-purple); border: 1px solid rgba(192, 132, 252, 0.4); }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+
+        .chart-box {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+        }
+
+        .chart-box h3 {
+            font-size: 1.1rem;
+            margin-bottom: 16px;
+            color: var(--accent-blue);
+        }
+
+        .diagnostic-card {
+            background: rgba(30, 41, 59, 0.8);
+            border-left: 4px solid var(--accent-blue);
+            padding: 16px 20px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+        }
+
+        .table-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 24px;
+            overflow-x: auto;
+        }
+
+        .table-card h3 {
+            font-size: 1.1rem;
+            margin-bottom: 14px;
+            color: var(--accent-blue);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+            text-align: left;
+        }
+
+        th, td {
+            padding: 10px 14px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        th {
+            background: #0f172a;
+            color: var(--text-secondary);
+            font-weight: 600;
+        }
+
+        tr:hover {
+            background: rgba(51, 65, 85, 0.5);
+        }
+
+        .tag {
+            display: inline-block;
+            background: #334155;
+            color: #cbd5e1;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            margin-right: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <div class="header-title">
+                <h1>13. Concept Drift Detection in Social Media Streams</h1>
+                <p>Base Paper: <b>TSDA-BERT</b> (Susi & Shanthi, 2023) | Extension: <b>Multi-Signal Topic Drift</b> (Sarnovský & Babič, 2025)</p>
+            </div>
+            <div class="authors-badge">
+                <div><b>Group 23</b></div>
+                <div>Eluri Manoj (2023BCD0029) | P. Harshithvardhan (2023BCS0128) | N. Lalith (2023BCD0033)</div>
+            </div>
+        </header>
+
+        <!-- Controls -->
+        <div class="controls-card">
+            <div class="control-group">
+                <label for="domainSelect"><b>Select Stream Domain:</b></label>
+                <select id="domainSelect" onchange="changeDomain()">
+                    <option value="manutd" selected>#manutd (Sports)</option>
+                    <option value="stockmarket">#stockmarket (Finance)</option>
+                    <option value="covaxinwho">#covaxinwho (Healthcare)</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <button class="btn-primary" onclick="stepNextWindow()">⏩ Step Next Window</button>
+                <button class="btn-success" id="autoPlayBtn" onclick="toggleAutoPlay()">▶ Auto-Play Stream</button>
+                <button onclick="resetSimulation()">🔄 Reset Stream (w0)</button>
+            </div>
+        </div>
+
+        <!-- Metrics Cards -->
+        <div class="grid-cards">
+            <div class="metric-card">
+                <span class="metric-label">Active Window</span>
+                <span class="metric-value" id="valWindow">w0</span>
+                <span style="font-size: 0.8rem; color: var(--text-secondary);" id="valDriftType">Stationary (Baseline)</span>
+            </div>
+            <div class="metric-card">
+                <span class="metric-label">Sentiment Drift Measure (SDM)</span>
+                <span class="metric-value" id="valSDM">+0.52</span>
+                <span style="font-size: 0.8rem; color: var(--text-secondary);" id="valPosNeg">Pos: 76% | Neg: 24%</span>
+            </div>
+            <div class="metric-card">
+                <span class="metric-label">Multi-Signal Status</span>
+                <div id="valStatusBadge" class="badge-status status-stationary">STATIONARY</div>
+                <span style="font-size: 0.8rem; color: var(--text-secondary);" id="valJointIndex">Joint Index: 0.000</span>
+            </div>
+            <div class="metric-card">
+                <span class="metric-label">Model Accuracy</span>
+                <span class="metric-value" id="valAccuracy" style="color: var(--accent-green);">94.5%</span>
+                <span style="font-size: 0.8rem; color: var(--text-secondary);" id="valF1">F1: 0.921</span>
+            </div>
+            <div class="metric-card">
+                <span class="metric-label">DIS Filtered for Adaptation</span>
+                <span class="metric-value" id="valDIS">0</span>
+                <span style="font-size: 0.8rem; color: var(--text-secondary);">Threshold: DIS ≥ 0.35</span>
+            </div>
+        </div>
+
+        <!-- Live Diagnostic Box -->
+        <div class="diagnostic-card">
+            <h4 style="color: var(--accent-blue); margin-bottom: 6px;">Real-Time Pipeline Diagnostic:</h4>
+            <p id="diagnosticText">Stream initialized on baseline window w0. TSDA-BERT initial fine-tuning completed. Listening to simulated Kafka topic...</p>
+        </div>
+
+        <!-- Live Visualizations -->
+        <div class="charts-grid">
+            <div class="chart-box">
+                <h3>Sentiment Drift Measure (SDM) Trajectory</h3>
+                <canvas id="chartSDM" height="240"></canvas>
+            </div>
+            <div class="chart-box">
+                <h3>Dynamic Topic Distribution Dynamics</h3>
+                <canvas id="chartTopic" height="240"></canvas>
+            </div>
+        </div>
+
+        <!-- Live Tweets Inspection Table -->
+        <div class="table-card">
+            <h3>Current Window Live Tweet Stream & DIS Scoring</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 45%;">Tweet Text</th>
+                        <th>True Polarity</th>
+                        <th>TSDA-BERT Prediction</th>
+                        <th>Confidence</th>
+                        <th>DIS Score</th>
+                        <th>Matched Domain Keywords</th>
+                    </tr>
+                </thead>
+                <tbody id="tweetsTableBody">
+                    <tr><td colspan="6" style="text-align:center; color: var(--text-secondary);">Step window forward to inspect streamed tweets.</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Comparative Metrics Table -->
+        <div class="table-card">
+            <h3>Group 23 Comparative Evaluation Results: Baseline TSDA-BERT vs Multi-Signal</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Domain</th>
+                        <th>Metric</th>
+                        <th>Static BERT (Control)</th>
+                        <th>Baseline TSDA-BERT (2023)</th>
+                        <th>Proposed Multi-Signal TSDA-BERT</th>
+                    </tr>
+                </thead>
+                <tbody id="benchmarksTableBody">
+                    <!-- Populated dynamically -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        let autoPlayInterval = null;
+        let sdmChart = null;
+        let topicChart = null;
+
+        // Initialize Charts
+        function initCharts() {
+            const ctxSDM = document.getElementById('chartSDM').getContext('2d');
+            sdmChart = new Chart(ctxSDM, {
+                type: 'line',
+                data: {
+                    labels: ['w0'],
+                    datasets: [
+                        {
+                            label: 'SDM (Pos - Neg)',
+                            data: [0.52],
+                            borderColor: '#38bdf8',
+                            backgroundColor: 'rgba(56, 189, 248, 0.1)',
+                            borderWidth: 3,
+                            fill: true,
+                            tension: 0.3,
+                            pointRadius: 6,
+                            pointBackgroundColor: '#38bdf8'
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: { min: -1.0, max: 1.0, grid: { color: '#334155' } },
+                        x: { grid: { color: '#334155' } }
+                    },
+                    plugins: { legend: { labels: { color: '#f8fafc' } } }
+                }
+            });
+
+            const ctxTopic = document.getElementById('chartTopic').getContext('2d');
+            topicChart = new Chart(ctxTopic, {
+                type: 'bar',
+                data: {
+                    labels: ['w0'],
+                    datasets: [
+                        { label: 'Topic 0', data: [0.75], backgroundColor: '#38bdf8' },
+                        { label: 'Topic 1', data: [0.15], backgroundColor: '#c084fc' },
+                        { label: 'Topic 2', data: [0.10], backgroundColor: '#fbbf24' }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: { stacked: true, max: 1.0, grid: { color: '#334155' } },
+                        x: { stacked: true, grid: { color: '#334155' } }
+                    },
+                    plugins: { legend: { labels: { color: '#f8fafc' } } }
+                }
+            });
+        }
+
+        async function fetchState() {
+            const res = await fetch('/api/state');
+            const data = await res.json();
+            updateUIWithHistory(data.history);
+        }
+
+        async function fetchBenchmarks() {
+            const res = await fetch('/api/benchmark_summary');
+            const data = await res.json();
+            const tbody = document.getElementById('benchmarksTableBody');
+            tbody.innerHTML = '';
+
+            const metrics = [
+                ['Detection Accuracy', s => (s.detection_accuracy * 100).toFixed(1) + '%'],
+                ['Classification Accuracy', s => (s.mean_accuracy * 100).toFixed(2) + '%'],
+                ['F1-Score', s => s.mean_f1_score.toFixed(4)],
+                ['Detection Delay (windows)', s => s.detection_delay_windows !== null ? s.detection_delay_windows.toFixed(2) : 'N/A'],
+                ['False Alarms', s => s.false_alarms],
+                ['Throughput (tweets/s)', s => s.throughput_tweets_per_sec.toFixed(1)],
+                ['Latency (ms/tweet)', s => s.latency_ms_per_tweet.toFixed(2)],
+                ['Memory Footprint', s => s.memory_rss_mb.toFixed(1) + ' MB']
+            ];
+
+            for (const [dom, domData] of Object.entries(data)) {
+                const sys = domData.systems;
+                for (const [label, fn] of metrics) {
+                    const row = `<tr>
+                        <td><b>#${dom.toUpperCase()}</b></td>
+                        <td>${label}</td>
+                        <td>${fn(sys.static_bert)}</td>
+                        <td>${fn(sys.baseline_tsda_bert)}</td>
+                        <td style="color: var(--accent-green); font-weight: bold;">${fn(sys.proposed_multisignal_tsda_bert)}</td>
+                    </tr>`;
+                    tbody.innerHTML += row;
+                }
+            }
+        }
+
+        async function stepNextWindow() {
+            const res = await fetch('/api/next_window', { method: 'POST' });
+            const data = await res.json();
+            if (data.status === 'ok') {
+                await fetchState();
+                if (data.window_summary && data.window_summary.sample_tweets) {
+                    renderTweets(data.window_summary.sample_tweets);
+                }
+            } else if (data.status === 'finished') {
+                alert("Stream complete: reached final window w5!");
+                stopAutoPlay();
+            }
+        }
+
+        async function changeDomain() {
+            const sel = document.getElementById('domainSelect').value;
+            stopAutoPlay();
+            await fetch(`/api/select_domain?domain=${sel}`, { method: 'POST' });
+            await fetchState();
+            document.getElementById('tweetsTableBody').innerHTML = '<tr><td colspan="6" style="text-align:center; color: var(--text-secondary);">Step window forward to inspect streamed tweets.</td></tr>';
+        }
+
+        async function resetSimulation() {
+            stopAutoPlay();
+            await fetch('/api/reset', { method: 'POST' });
+            await fetchState();
+            document.getElementById('tweetsTableBody').innerHTML = '<tr><td colspan="6" style="text-align:center; color: var(--text-secondary);">Step window forward to inspect streamed tweets.</td></tr>';
+        }
+
+        function toggleAutoPlay() {
+            const btn = document.getElementById('autoPlayBtn');
+            if (autoPlayInterval) {
+                stopAutoPlay();
+            } else {
+                btn.innerText = '⏸ Pause Stream';
+                btn.className = 'btn-primary';
+                autoPlayInterval = setInterval(async () => {
+                    const res = await fetch('/api/next_window', { method: 'POST' });
+                    const data = await res.json();
+                    if (data.status === 'finished') {
+                        stopAutoPlay();
+                    } else if (data.status === 'ok') {
+                        await fetchState();
+                        if (data.window_summary && data.window_summary.sample_tweets) {
+                            renderTweets(data.window_summary.sample_tweets);
+                        }
+                    }
+                }, 2500);
+            }
+        }
+
+        function stopAutoPlay() {
+            if (autoPlayInterval) {
+                clearInterval(autoPlayInterval);
+                autoPlayInterval = null;
+                const btn = document.getElementById('autoPlayBtn');
+                btn.innerText = '▶ Auto-Play Stream';
+                btn.className = 'btn-success';
+            }
+        }
+
+        function updateUIWithHistory(history) {
+            if (!history || history.length === 0) return;
+            const last = history[history.length - 1];
+
+            document.getElementById('valWindow').innerText = last.window_id;
+            document.getElementById('valDriftType').innerText = last.window_drift_type || 'Stationary';
+
+            const sdmVal = last.sentiment_res ? last.sentiment_res.sdm : 0.0;
+            document.getElementById('valSDM').innerText = (sdmVal >= 0 ? '+' : '') + sdmVal.toFixed(2);
+            document.getElementById('valPosNeg').innerText = `Pos: ${((last.sentiment_res?.pos_score||0)*100).toFixed(0)}% | Neg: ${((last.sentiment_res?.neg_score||0)*100).toFixed(0)}%`;
+
+            const multiType = last.multi_res ? last.multi_res.drift_type : 'STATIONARY';
+            const badge = document.getElementById('valStatusBadge');
+            badge.innerText = multiType.replace(/_/g, ' ');
+            badge.className = 'badge-status ' + (
+                multiType === 'COMPOUND_CO_DRIFT' ? 'status-compound' :
+                multiType === 'PURE_SENTIMENT_DRIFT' ? 'status-sentiment' :
+                multiType === 'TOPIC_DRIVEN_DRIFT' ? 'status-topic' : 'status-stationary'
+            );
+
+            document.getElementById('valJointIndex').innerText = `Joint Index: ${(last.multi_res?.joint_drift_index||0).toFixed(3)}`;
+            document.getElementById('valAccuracy').innerText = ((last.accuracy || 0.945) * 100).toFixed(1) + '%';
+            document.getElementById('valF1').innerText = `F1: ${(last.f1 || 0.92).toFixed(3)}`;
+            document.getElementById('valDIS').innerText = last.selected_dis_count || 0;
+
+            if (last.multi_res && last.multi_res.diagnosis) {
+                document.getElementById('diagnosticText').innerText = `[${last.window_id}] ${last.multi_res.diagnosis}`;
+            }
+
+            // Update SDM Chart
+            sdmChart.data.labels = history.map(h => h.window_id);
+            sdmChart.data.datasets[0].data = history.map(h => h.sentiment_res ? h.sentiment_res.sdm : 0);
+            sdmChart.update();
+
+            // Update Topic Chart
+            topicChart.data.labels = history.map(h => h.window_id);
+            topicChart.data.datasets[0].data = history.map(h => h.topic_res ? h.topic_res.topic_distribution[0] : 0);
+            topicChart.data.datasets[1].data = history.map(h => h.topic_res ? h.topic_res.topic_distribution[1] : 0);
+            topicChart.data.datasets[2].data = history.map(h => h.topic_res ? h.topic_res.topic_distribution[2] : 0);
+            topicChart.update();
+        }
+
+        function renderTweets(tweets) {
+            const tbody = document.getElementById('tweetsTableBody');
+            tbody.innerHTML = '';
+            tweets.forEach(t => {
+                const kwHtml = t.matched_words.map(w => `<span class="tag">${w}</span>`).join('');
+                const predColor = t.pred_sentiment === 'Positive' ? 'var(--accent-green)' : 'var(--accent-red)';
+                const row = `<tr>
+                    <td>${t.text}</td>
+                    <td><b>${t.true_sentiment}</b></td>
+                    <td style="color: ${predColor}; font-weight: bold;">${t.pred_sentiment}</td>
+                    <td>${(t.pos_prob * 100).toFixed(1)}%</td>
+                    <td><b>${t.dis_score.toFixed(3)}</b></td>
+                    <td>${kwHtml || '<i style="color:var(--text-secondary);">None</i>'}</td>
+                </tr>`;
+                tbody.innerHTML += row;
+            });
+        }
+
+        window.onload = async () => {
+            initCharts();
+            await fetchState();
+            await fetchBenchmarks();
+        };
+    </script>
+</body>
+</html>
