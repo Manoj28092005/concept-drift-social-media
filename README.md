@@ -4,6 +4,7 @@
 - **Eluri Manoj** (2023BCD0029)
 - **P. Harshithvardhan** (2023BCS0128)
 - **N. Lalith** (2023BCD0033)
+- **Aditya Dubey** (2023BCD0062)
 
 ---
 
